@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waffle-game-unlimited.vercel.app/sitemap.xml

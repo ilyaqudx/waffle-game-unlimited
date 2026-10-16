@@ -1,0 +1,5112 @@
+[
+  {
+    "id": 1,
+    "horizontals": [
+      "BATHE",
+      "GUSTO",
+      "NEEDY"
+    ],
+    "verticals": [
+      "BEGAN",
+      "TASTE",
+      "EBONY"
+    ],
+    "initial": "ATGNANABBUSTOETEEEHDY"
+  },
+  {
+    "id": 2,
+    "horizontals": [
+      "BATHE",
+      "SPOKE",
+      "SALTY"
+    ],
+    "verticals": [
+      "BASIS",
+      "TROLL",
+      "ELEGY"
+    ],
+    "initial": "YAOHERELBPSKAILGSALTT"
+  },
+  {
+    "id": 3,
+    "horizontals": [
+      "BATHE",
+      "CHUTE",
+      "NUTTY"
+    ],
+    "verticals": [
+      "BACON",
+      "TAUNT",
+      "ELEGY"
+    ],
+    "initial": "HAOBEATLNUHAEUYTNTGTC"
+  },
+  {
+    "id": 4,
+    "horizontals": [
+      "BATHE",
+      "BERTH",
+      "ESTER"
+    ],
+    "verticals": [
+      "BIBLE",
+      "TAROT",
+      "ETHER"
+    ],
+    "initial": "EETHEABTBIRTALROESTHE"
+  },
+  {
+    "id": 5,
+    "horizontals": [
+      "BATHE",
+      "SALVO",
+      "MAYBE"
+    ],
+    "verticals": [
+      "BOSOM",
+      "TALLY",
+      "ELOPE"
+    ],
+    "initial": "APALTHAOBLLVOOSAYEMBE"
+  },
+  {
+    "id": 6,
+    "horizontals": [
+      "BATHE",
+      "SMITH",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TAINT",
+      "ETHER"
+    ],
+    "initial": "NATTESHIAMATHABELTAER"
+  },
+  {
+    "id": 7,
+    "horizontals": [
+      "BATHE",
+      "SKILL",
+      "SLEPT"
+    ],
+    "verticals": [
+      "BASIS",
+      "TRIBE",
+      "ECLAT"
+    ],
+    "initial": "EBLHAARCBKILAISTSTEPL"
+  },
+  {
+    "id": 8,
+    "horizontals": [
+      "BATHE",
+      "GRATE",
+      "YEAST"
+    ],
+    "verticals": [
+      "BAGGY",
+      "TIARA",
+      "EJECT"
+    ],
+    "initial": "BAHRETIJGGATCERATSAEY"
+  },
+  {
+    "id": 9,
+    "horizontals": [
+      "BATHE",
+      "ATOLL",
+      "SLEPT"
+    ],
+    "verticals": [
+      "BRASS",
+      "THOSE",
+      "ECLAT"
+    ],
+    "initial": "EATETRHCASOLLSSAHLBPT"
+  },
+  {
+    "id": 10,
+    "horizontals": [
+      "BATHE",
+      "ASSET",
+      "STEEL"
+    ],
+    "verticals": [
+      "BRASS",
+      "TASTE",
+      "EXTOL"
+    ],
+    "initial": "TATSLXTRSHSEASTOBEEAE"
+  },
+  {
+    "id": 11,
+    "horizontals": [
+      "BATHE",
+      "NEIGH",
+      "LATER"
+    ],
+    "verticals": [
+      "BANAL",
+      "TAINT",
+      "ETHER"
+    ],
+    "initial": "BAAHEEETNEIGATTALRNHA"
+  },
+  {
+    "id": 12,
+    "horizontals": [
+      "BATHE",
+      "FAINT",
+      "TALON"
+    ],
+    "verticals": [
+      "BEFIT",
+      "TRIAL",
+      "EATEN"
+    ],
+    "initial": "AAEETIIBFTRNAEAHTALON"
+  },
+  {
+    "id": 13,
+    "horizontals": [
+      "BATHE",
+      "SPREE",
+      "SHADY"
+    ],
+    "verticals": [
+      "BASIS",
+      "TERRA",
+      "ELEGY"
+    ],
+    "initial": "AATHEEELSRDEPRIHGBASY"
+  },
+  {
+    "id": 14,
+    "horizontals": [
+      "BATHE",
+      "TRITE",
+      "NUTTY"
+    ],
+    "verticals": [
+      "BATON",
+      "TAINT",
+      "ELEGY"
+    ],
+    "initial": "YOTAELAATRETNUNGBHTTI"
+  },
+  {
+    "id": 15,
+    "horizontals": [
+      "BATHE",
+      "SLOPE",
+      "SALTY"
+    ],
+    "verticals": [
+      "BASIS",
+      "TROLL",
+      "ELEGY"
+    ],
+    "initial": "BATLEHSYLLAPEITGSOLAR"
+  },
+  {
+    "id": 16,
+    "horizontals": [
+      "BATHE",
+      "THONG",
+      "LATER"
+    ],
+    "verticals": [
+      "BETEL",
+      "TROUT",
+      "EAGER"
+    ],
+    "initial": "BUEOEAHRGHANAETELTTER"
+  },
+  {
+    "id": 17,
+    "horizontals": [
+      "BATHE",
+      "SHEAR",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "THEFT",
+      "ERROR"
+    ],
+    "initial": "OAHETBARSHETHAFRLAREA"
+  },
+  {
+    "id": 18,
+    "horizontals": [
+      "BATHE",
+      "DEALT",
+      "ESTER"
+    ],
+    "verticals": [
+      "BADGE",
+      "TOAST",
+      "EATER"
+    ],
+    "initial": "SDSEAAOAAEHLTETGEBTER"
+  },
+  {
+    "id": 19,
+    "horizontals": [
+      "BATHE",
+      "RIGOR",
+      "HARPY"
+    ],
+    "verticals": [
+      "BERTH",
+      "TIGER",
+      "EARLY"
+    ],
+    "initial": "AATRBEILHREOETIGHAPRY"
+  },
+  {
+    "id": 20,
+    "horizontals": [
+      "BATHE",
+      "BIGOT",
+      "ESTER"
+    ],
+    "verticals": [
+      "BIBLE",
+      "TIGHT",
+      "EATER"
+    ],
+    "initial": "EAEHTIIEBAROTLHTISBEG"
+  },
+  {
+    "id": 21,
+    "horizontals": [
+      "BATHE",
+      "CRONE",
+      "NUTTY"
+    ],
+    "verticals": [
+      "BACON",
+      "TROUT",
+      "ELEGY"
+    ],
+    "initial": "ACRHEAELRNTNOOTGUUTBY"
+  },
+  {
+    "id": 22,
+    "horizontals": [
+      "BATHE",
+      "STERN",
+      "SWAMI"
+    ],
+    "verticals": [
+      "BASIS",
+      "THETA",
+      "ENNUI"
+    ],
+    "initial": "EAHTEANSWHMRATBUSIINT"
+  },
+  {
+    "id": 23,
+    "horizontals": [
+      "BATHE",
+      "USAGE",
+      "BATTY"
+    ],
+    "verticals": [
+      "BLURB",
+      "TOAST",
+      "ELEGY"
+    ],
+    "initial": "GLTHEBSLOASBARAGTUETY"
+  },
+  {
+    "id": 24,
+    "horizontals": [
+      "BATHE",
+      "AHEAD",
+      "LATER"
+    ],
+    "verticals": [
+      "BRAWL",
+      "THEFT",
+      "ELDER"
+    ],
+    "initial": "BHAHETTLDRAALWEEAFHER"
+  },
+  {
+    "id": 25,
+    "horizontals": [
+      "BATHE",
+      "SLUMP",
+      "NATAL"
+    ],
+    "verticals": [
+      "BASIN",
+      "TAUNT",
+      "EXPEL"
+    ],
+    "initial": "NASEIABHTLUMPNTXAAEAL"
+  },
+  {
+    "id": 26,
+    "horizontals": [
+      "BATHE",
+      "GLADE",
+      "YEAST"
+    ],
+    "verticals": [
+      "BAGGY",
+      "TIARA",
+      "EJECT"
+    ],
+    "initial": "BAEYAAIEGTEDJSRCLGHAT"
+  },
+  {
+    "id": 27,
+    "horizontals": [
+      "BATHE",
+      "SPENT",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "THEFT",
+      "EATER"
+    ],
+    "initial": "BATAETHPSAENEAFTLAHER"
+  },
+  {
+    "id": 28,
+    "horizontals": [
+      "BATHE",
+      "OPINE",
+      "NUTTY"
+    ],
+    "verticals": [
+      "BLOWN",
+      "TAINT",
+      "ELEGY"
+    ],
+    "initial": "BUTHLTELOPWAAYNGEINTN"
+  },
+  {
+    "id": 29,
+    "horizontals": [
+      "BATHE",
+      "BLOAT",
+      "ESTER"
+    ],
+    "verticals": [
+      "BIBLE",
+      "TROUT",
+      "EATER"
+    ],
+    "initial": "BBSUEEEATLOTHLEAIARTR"
+  },
+  {
+    "id": 30,
+    "horizontals": [
+      "BATHE",
+      "SWEEP",
+      "NATAL"
+    ],
+    "verticals": [
+      "BASIN",
+      "THEFT",
+      "EXPEL"
+    ],
+    "initial": "BHTPALESXWAEFIAENETAH"
+  },
+  {
+    "id": 31,
+    "horizontals": [
+      "BATHE",
+      "SIEGE",
+      "SHADY"
+    ],
+    "verticals": [
+      "BASIS",
+      "THETA",
+      "ELEGY"
+    ],
+    "initial": "TTAIHAGHSSLIEEEBGHADY"
+  },
+  {
+    "id": 32,
+    "horizontals": [
+      "BATHE",
+      "UNMET",
+      "HARPY"
+    ],
+    "verticals": [
+      "BLUSH",
+      "TAMER",
+      "ENTRY"
+    ],
+    "initial": "BAYUELANSHMEHTRENRTPA"
+  },
+  {
+    "id": 33,
+    "horizontals": [
+      "BATHE",
+      "TULIP",
+      "NEEDY"
+    ],
+    "verticals": [
+      "BATON",
+      "TILDE",
+      "EMPTY"
+    ],
+    "initial": "BATUAHEMITLYDPTONEEDI"
+  },
+  {
+    "id": 34,
+    "horizontals": [
+      "BATHE",
+      "AGAPE",
+      "SALTY"
+    ],
+    "verticals": [
+      "BRASS",
+      "TRAIL",
+      "ELEGY"
+    ],
+    "initial": "SAGEPRRAEGALABITSHLTY"
+  },
+  {
+    "id": 35,
+    "horizontals": [
+      "BATHE",
+      "ABYSS",
+      "NATAL"
+    ],
+    "verticals": [
+      "BRAIN",
+      "TRYST",
+      "EASEL"
+    ],
+    "initial": "ASTHARASEIYBBASENRTAL"
+  },
+  {
+    "id": 36,
+    "horizontals": [
+      "BATHE",
+      "ERROR",
+      "SPOKE"
+    ],
+    "verticals": [
+      "BLESS",
+      "TORSO",
+      "EERIE"
+    ],
+    "initial": "BITLEHERSOERRSKSOAOPE"
+  },
+  {
+    "id": 37,
+    "horizontals": [
+      "BATHE",
+      "SLEET",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "THEFT",
+      "EATER"
+    ],
+    "initial": "HTEHBAERSLAETAFLETAEA"
+  },
+  {
+    "id": 38,
+    "horizontals": [
+      "BATHE",
+      "SOUTH",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TAUNT",
+      "ETHER"
+    ],
+    "initial": "BATHTARNSOUEHEAALTTAE"
+  },
+  {
+    "id": 39,
+    "horizontals": [
+      "BATHE",
+      "APNEA",
+      "SPOKE"
+    ],
+    "verticals": [
+      "BRASS",
+      "TANGO",
+      "ELATE"
+    ],
+    "initial": "BLTPEAAEPRNHASOTSEGKA"
+  },
+  {
+    "id": 40,
+    "horizontals": [
+      "BATHE",
+      "EJECT",
+      "HARPY"
+    ],
+    "verticals": [
+      "BEECH",
+      "THEIR",
+      "ENTRY"
+    ],
+    "initial": "RPETEEHNEABHTHICRACJY"
+  },
+  {
+    "id": 41,
+    "horizontals": [
+      "BATHE",
+      "TAPIR",
+      "HARPY"
+    ],
+    "verticals": [
+      "BATCH",
+      "TAPER",
+      "EARLY"
+    ],
+    "initial": "BATLEAARAAPIAHREYTHPC"
+  },
+  {
+    "id": 42,
+    "horizontals": [
+      "BATHE",
+      "TOAST",
+      "LATER"
+    ],
+    "verticals": [
+      "BETEL",
+      "TRACT",
+      "EATER"
+    ],
+    "initial": "EATHLERATOETCEERSATAB"
+  },
+  {
+    "id": 43,
+    "horizontals": [
+      "BATHE",
+      "WHERE",
+      "YEAST"
+    ],
+    "verticals": [
+      "BAWDY",
+      "THETA",
+      "EJECT"
+    ],
+    "initial": "BETHTYHJWHEAADEARETSC"
+  },
+  {
+    "id": 44,
+    "horizontals": [
+      "BATHE",
+      "INGOT",
+      "ESTER"
+    ],
+    "verticals": [
+      "BRIBE",
+      "TIGHT",
+      "EATER"
+    ],
+    "initial": "IAEHERTAINGOEBTTERHSB"
+  },
+  {
+    "id": 45,
+    "horizontals": [
+      "BATHE",
+      "CURIO",
+      "NUTTY"
+    ],
+    "verticals": [
+      "BACON",
+      "TAROT",
+      "EBONY"
+    ],
+    "initial": "BHTTRCENAUOIOAOBNUATY"
+  },
+  {
+    "id": 46,
+    "horizontals": [
+      "BATHE",
+      "WOULD",
+      "LATER"
+    ],
+    "verticals": [
+      "BOWEL",
+      "TAUNT",
+      "ELDER"
+    ],
+    "initial": "TBLHAUALWOEOEETELRADN"
+  },
+  {
+    "id": 47,
+    "horizontals": [
+      "BATHE",
+      "OMEGA",
+      "NATAL"
+    ],
+    "verticals": [
+      "BLOWN",
+      "THEFT",
+      "EMAIL"
+    ],
+    "initial": "BHEIWLHMOMAGATEFTLAAN"
+  },
+  {
+    "id": 48,
+    "horizontals": [
+      "BATHE",
+      "BEAST",
+      "ESTER"
+    ],
+    "verticals": [
+      "BIBLE",
+      "TOAST",
+      "EATER"
+    ],
+    "initial": "BTEHRITABSAEEESLEOSTA"
+  },
+  {
+    "id": 49,
+    "horizontals": [
+      "BATHE",
+      "FUNGI",
+      "TRACE"
+    ],
+    "verticals": [
+      "BEFIT",
+      "TONGA",
+      "ELIDE"
+    ],
+    "initial": "GACBTEADFUNGOIHTERLIE"
+  },
+  {
+    "id": 50,
+    "horizontals": [
+      "BATHE",
+      "LABEL",
+      "YEAST"
+    ],
+    "verticals": [
+      "BALMY",
+      "TIBIA",
+      "ECLAT"
+    ],
+    "initial": "BSAETAMCYAEBTIIALEAHL"
+  },
+  {
+    "id": 51,
+    "horizontals": [
+      "BATHE",
+      "STUNT",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TAUNT",
+      "EATER"
+    ],
+    "initial": "LNTHTAAASTBAEANAEUTER"
+  },
+  {
+    "id": 52,
+    "horizontals": [
+      "BATHE",
+      "TURBO",
+      "LYMPH"
+    ],
+    "verticals": [
+      "BETEL",
+      "THRUM",
+      "EPOCH"
+    ],
+    "initial": "BLMHRETPTUYHEUACBOEPH"
+  },
+  {
+    "id": 53,
+    "horizontals": [
+      "BATHE",
+      "FUGUE",
+      "TERRA"
+    ],
+    "verticals": [
+      "BEFIT",
+      "TIGER",
+      "ENEMA"
+    ],
+    "initial": "NATFERAIEUUGEIEMTEHRB"
+  },
+  {
+    "id": 54,
+    "horizontals": [
+      "BATHE",
+      "THERE",
+      "HARPY"
+    ],
+    "verticals": [
+      "BATCH",
+      "THEIR",
+      "ELEGY"
+    ],
+    "initial": "TATIEAHHRAECEYRGPHLHB"
+  },
+  {
+    "id": 55,
+    "horizontals": [
+      "BATHE",
+      "EXTRA",
+      "PURSE"
+    ],
+    "verticals": [
+      "BLEEP",
+      "TUTOR",
+      "ELATE"
+    ],
+    "initial": "TLAREURELETTOABHPUXSE"
+  },
+  {
+    "id": 56,
+    "horizontals": [
+      "BATHE",
+      "RACER",
+      "ESTER"
+    ],
+    "verticals": [
+      "BARGE",
+      "TACIT",
+      "ERROR"
+    ],
+    "initial": "BERAEAAHRTCSAOIGTERER"
+  },
+  {
+    "id": 57,
+    "horizontals": [
+      "BATHE",
+      "LABOR",
+      "WEAVE"
+    ],
+    "verticals": [
+      "BELOW",
+      "TIBIA",
+      "EERIE"
+    ],
+    "initial": "EAEEIBIELAEOBOAIWHTVR"
+  },
+  {
+    "id": 58,
+    "horizontals": [
+      "BATHE",
+      "EIGHT",
+      "HARPY"
+    ],
+    "verticals": [
+      "BEECH",
+      "TIGER",
+      "ENTRY"
+    ],
+    "initial": "AAYCIGENEEHIRHTRHEBPT"
+  },
+  {
+    "id": 59,
+    "horizontals": [
+      "BATHE",
+      "DWARF",
+      "EATEN"
+    ],
+    "verticals": [
+      "BADGE",
+      "TOAST",
+      "ELFIN"
+    ],
+    "initial": "NBTHERWFDAOGLASEEATAI"
+  },
+  {
+    "id": 60,
+    "horizontals": [
+      "BATHE",
+      "SNOOP",
+      "SALTY"
+    ],
+    "verticals": [
+      "BASIS",
+      "TROLL",
+      "EMPTY"
+    ],
+    "initial": "OALINARBSHAOPTETSLMTY"
+  },
+  {
+    "id": 61,
+    "horizontals": [
+      "BATHE",
+      "GENIE",
+      "YEAST"
+    ],
+    "verticals": [
+      "BAGGY",
+      "TONGA",
+      "EJECT"
+    ],
+    "initial": "BGESEAOEGENIJTACGHAYT"
+  },
+  {
+    "id": 62,
+    "horizontals": [
+      "BATHE",
+      "LUNCH",
+      "ESTER"
+    ],
+    "verticals": [
+      "BELIE",
+      "TENET",
+      "ETHER"
+    ],
+    "initial": "BSTCEHETLENEEHAIEETUR"
+  },
+  {
+    "id": 63,
+    "horizontals": [
+      "BATHE",
+      "GRAIL",
+      "YEAST"
+    ],
+    "verticals": [
+      "BAGGY",
+      "TIARA",
+      "ECLAT"
+    ],
+    "initial": "ATYHEBIACGAILARTREGSA"
+  },
+  {
+    "id": 64,
+    "horizontals": [
+      "BATHE",
+      "WHEAT",
+      "LATER"
+    ],
+    "verticals": [
+      "BOWEL",
+      "THEFT",
+      "EATER"
+    ],
+    "initial": "BTTEAHEAETHAOHFELAREW"
+  },
+  {
+    "id": 65,
+    "horizontals": [
+      "BATHE",
+      "SCOLD",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TROUT",
+      "ELDER"
+    ],
+    "initial": "AAEEAAELHSOLURDTLBCTR"
+  },
+  {
+    "id": 66,
+    "horizontals": [
+      "BATHE",
+      "GRAVE",
+      "YEAST"
+    ],
+    "verticals": [
+      "BAGGY",
+      "TIARA",
+      "EJECT"
+    ],
+    "initial": "BAAYERITEEVATJRCHSAGG"
+  },
+  {
+    "id": 67,
+    "horizontals": [
+      "BATHE",
+      "SHRUB",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TAROT",
+      "EMBER"
+    ],
+    "initial": "SLRHEAAMBHRUBAOAATEET"
+  },
+  {
+    "id": 68,
+    "horizontals": [
+      "BATHE",
+      "SQUAT",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TAUNT",
+      "EATER"
+    ],
+    "initial": "AATHEUAESQABAATARNTEL"
+  },
+  {
+    "id": 69,
+    "horizontals": [
+      "BATHE",
+      "ANNUL",
+      "YEAST"
+    ],
+    "verticals": [
+      "BEADY",
+      "TONGA",
+      "ECLAT"
+    ],
+    "initial": "NATAEEECDUONLYGAHABST"
+  },
+  {
+    "id": 70,
+    "horizontals": [
+      "BATHE",
+      "DAUNT",
+      "ESTER"
+    ],
+    "verticals": [
+      "BADGE",
+      "TAUNT",
+      "EATER"
+    ],
+    "initial": "AGANTAESDEUHTBNAEATER"
+  },
+  {
+    "id": 71,
+    "horizontals": [
+      "BATHE",
+      "ABORT",
+      "LATER"
+    ],
+    "verticals": [
+      "BRAWL",
+      "TROUT",
+      "EATER"
+    ],
+    "initial": "AATARTARHRORUBWELBTEE"
+  },
+  {
+    "id": 72,
+    "horizontals": [
+      "BATHE",
+      "WHILE",
+      "LOFTY"
+    ],
+    "verticals": [
+      "BOWEL",
+      "THIEF",
+      "ELEGY"
+    ],
+    "initial": "BFTEHWHLOHILEEEALOGTY"
+  },
+  {
+    "id": 73,
+    "horizontals": [
+      "BATHE",
+      "LYNCH",
+      "ESTER"
+    ],
+    "verticals": [
+      "BELIE",
+      "TENET",
+      "ETHER"
+    ],
+    "initial": "EEHREHITEBLCTEYNASTEE"
+  },
+  {
+    "id": 74,
+    "horizontals": [
+      "BATHE",
+      "FAUNA",
+      "THERE"
+    ],
+    "verticals": [
+      "BEFIT",
+      "TRUCE",
+      "ELATE"
+    ],
+    "initial": "BHUFERRLAAETNIATEHCTE"
+  },
+  {
+    "id": 75,
+    "horizontals": [
+      "BATHE",
+      "LARGE",
+      "WEEDY"
+    ],
+    "verticals": [
+      "BELOW",
+      "TERSE",
+      "ELEGY"
+    ],
+    "initial": "EAYHESEOLADETWLGBEERG"
+  },
+  {
+    "id": 76,
+    "horizontals": [
+      "BATHE",
+      "GLOVE",
+      "NUTTY"
+    ],
+    "verticals": [
+      "BEGAN",
+      "TROUT",
+      "ELEGY"
+    ],
+    "initial": "NAUBEERHGYOLTAUTVGETL"
+  },
+  {
+    "id": 77,
+    "horizontals": [
+      "BATHE",
+      "ULCER",
+      "BATTY"
+    ],
+    "verticals": [
+      "BLURB",
+      "TACIT",
+      "EARLY"
+    ],
+    "initial": "BALLECAAUITEARYLBRHTT"
+  },
+  {
+    "id": 78,
+    "horizontals": [
+      "BATHE",
+      "DRAMA",
+      "YEAST"
+    ],
+    "verticals": [
+      "BADLY",
+      "TIARA",
+      "ENACT"
+    ],
+    "initial": "IADNEBLRYMAEATRCAHAST"
+  },
+  {
+    "id": 79,
+    "horizontals": [
+      "BATHE",
+      "SENSE",
+      "SALTY"
+    ],
+    "verticals": [
+      "BASIS",
+      "TONAL",
+      "ELEGY"
+    ],
+    "initial": "BAIHSAOALESNETLGEASTY"
+  },
+  {
+    "id": 80,
+    "horizontals": [
+      "BATHE",
+      "BOUGH",
+      "ESTER"
+    ],
+    "verticals": [
+      "BIBLE",
+      "TAUNT",
+      "ETHER"
+    ],
+    "initial": "RAGHNIABSETTHLBEEUOET"
+  },
+  {
+    "id": 81,
+    "horizontals": [
+      "BATHE",
+      "ROUND",
+      "ESTER"
+    ],
+    "verticals": [
+      "BARGE",
+      "TAUNT",
+      "ELDER"
+    ],
+    "initial": "TATDNBELHRUAOGNEESRAE"
+  },
+  {
+    "id": 82,
+    "horizontals": [
+      "BATHE",
+      "ADULT",
+      "LATER"
+    ],
+    "verticals": [
+      "BRAWL",
+      "TAUNT",
+      "EATER"
+    ],
+    "initial": "NAUTHRTARDAEBWELLATEA"
+  },
+  {
+    "id": 83,
+    "horizontals": [
+      "BATHE",
+      "LEECH",
+      "ESTER"
+    ],
+    "verticals": [
+      "BELIE",
+      "THEFT",
+      "ETHER"
+    ],
+    "initial": "EAEHREHTLEIEHEFBTTSCE"
+  },
+  {
+    "id": 84,
+    "horizontals": [
+      "BATHE",
+      "DRYER",
+      "ESTER"
+    ],
+    "verticals": [
+      "BADGE",
+      "TRYST",
+      "ERROR"
+    ],
+    "initial": "SAYHRERBDRAEERESGTTOR"
+  },
+  {
+    "id": 85,
+    "horizontals": [
+      "BATHE",
+      "FORTE",
+      "TABBY"
+    ],
+    "verticals": [
+      "BEFIT",
+      "THROB",
+      "ELEGY"
+    ],
+    "initial": "LAATEEHBTGRTHIOEOYBFB"
+  },
+  {
+    "id": 86,
+    "horizontals": [
+      "BATHE",
+      "SMELT",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "THEFT",
+      "EATER"
+    ],
+    "initial": "BRTAEAHALEAETEFHATLMS"
+  },
+  {
+    "id": 87,
+    "horizontals": [
+      "BATHE",
+      "RARER",
+      "TRACE"
+    ],
+    "verticals": [
+      "BERET",
+      "TERRA",
+      "EERIE"
+    ],
+    "initial": "IEACHAEAETRRRERBTREEE"
+  },
+  {
+    "id": 88,
+    "horizontals": [
+      "BATHE",
+      "DEMUR",
+      "ERODE"
+    ],
+    "verticals": [
+      "BADGE",
+      "TEMPO",
+      "EERIE"
+    ],
+    "initial": "REDPEEEETEMUBAHIARODG"
+  },
+  {
+    "id": 89,
+    "horizontals": [
+      "BATHE",
+      "SCOWL",
+      "SLEPT"
+    ],
+    "verticals": [
+      "BASIS",
+      "THOSE",
+      "ECLAT"
+    ],
+    "initial": "BCTHEOHLSCEWSATASILPA"
+  },
+  {
+    "id": 90,
+    "horizontals": [
+      "BATHE",
+      "SCOFF",
+      "TALON"
+    ],
+    "verticals": [
+      "BESET",
+      "TROLL",
+      "ELFIN"
+    ],
+    "initial": "TLOHEERSBCOFNELITLFAA"
+  },
+  {
+    "id": 91,
+    "horizontals": [
+      "BATHE",
+      "VALID",
+      "LINER"
+    ],
+    "verticals": [
+      "BEVEL",
+      "TALON",
+      "ELDER"
+    ],
+    "initial": "BREHEEALVALEELTIDONAI"
+  },
+  {
+    "id": 92,
+    "horizontals": [
+      "BATHE",
+      "SONAR",
+      "SPOKE"
+    ],
+    "verticals": [
+      "BASIS",
+      "TANGO",
+      "EERIE"
+    ],
+    "initial": "BATREAIEHOAONIGASPSKE"
+  },
+  {
+    "id": 93,
+    "horizontals": [
+      "BATHE",
+      "THESE",
+      "HARPY"
+    ],
+    "verticals": [
+      "BATCH",
+      "THEIR",
+      "ELEGY"
+    ],
+    "initial": "ABTHAPETIYHESCLGHAREH"
+  },
+  {
+    "id": 94,
+    "horizontals": [
+      "BATHE",
+      "ROGER",
+      "HARPY"
+    ],
+    "verticals": [
+      "BERTH",
+      "TIGER",
+      "EARLY"
+    ],
+    "initial": "EPYHERIAROGTEEBLAARHT"
+  },
+  {
+    "id": 95,
+    "horizontals": [
+      "BATHE",
+      "REBAR",
+      "HARPY"
+    ],
+    "verticals": [
+      "BERTH",
+      "TUBER",
+      "EARLY"
+    ],
+    "initial": "BEAHAAUERRYATTHLBEEPR"
+  },
+  {
+    "id": 96,
+    "horizontals": [
+      "BATHE",
+      "TOOTH",
+      "LATER"
+    ],
+    "verticals": [
+      "BETEL",
+      "TROUT",
+      "ETHER"
+    ],
+    "initial": "TBTHREETTOOUHRALEATEE"
+  },
+  {
+    "id": 97,
+    "horizontals": [
+      "BATHE",
+      "ENEMA",
+      "TRACE"
+    ],
+    "verticals": [
+      "BLEAT",
+      "THETA",
+      "ELATE"
+    ],
+    "initial": "BATHELEELNAMARTHETCAT"
+  },
+  {
+    "id": 98,
+    "horizontals": [
+      "BATHE",
+      "SIGHT",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TIGHT",
+      "EATER"
+    ],
+    "initial": "AATAEABLIIGSHTHHATEER"
+  },
+  {
+    "id": 99,
+    "horizontals": [
+      "BATHE",
+      "BONUS",
+      "ERODE"
+    ],
+    "verticals": [
+      "BIBLE",
+      "TANGO",
+      "ENSUE"
+    ],
+    "initial": "IRTBEAUNBONOSLGHEAUDE"
+  },
+  {
+    "id": 100,
+    "horizontals": [
+      "BATHE",
+      "CIGAR",
+      "NUTTY"
+    ],
+    "verticals": [
+      "BACON",
+      "TIGHT",
+      "EARLY"
+    ],
+    "initial": "AREBYNIACIGAHOHTATLTU"
+  },
+  {
+    "id": 101,
+    "horizontals": [
+      "BATHE",
+      "GIANT",
+      "LATER"
+    ],
+    "verticals": [
+      "BAGEL",
+      "TOAST",
+      "EATER"
+    ],
+    "initial": "AEROEAHEGISBTNAALEATT"
+  },
+  {
+    "id": 102,
+    "horizontals": [
+      "BATHE",
+      "RISER",
+      "NEEDY"
+    ],
+    "verticals": [
+      "BARON",
+      "TASTE",
+      "EARLY"
+    ],
+    "initial": "RBAHEAETELROEATIDNSAY"
+  },
+  {
+    "id": 103,
+    "horizontals": [
+      "BATHE",
+      "STAIN",
+      "SWAMI"
+    ],
+    "verticals": [
+      "BASIS",
+      "TIARA",
+      "ENNUI"
+    ],
+    "initial": "BAHMIAISRTEINISUTNAWA"
+  },
+  {
+    "id": 104,
+    "horizontals": [
+      "BATHE",
+      "GUEST",
+      "LATER"
+    ],
+    "verticals": [
+      "BAGEL",
+      "THEFT",
+      "EATER"
+    ],
+    "initial": "UGAEEFEAAHBSTHLEATTER"
+  },
+  {
+    "id": 105,
+    "horizontals": [
+      "BATHE",
+      "EQUAL",
+      "POSIT"
+    ],
+    "verticals": [
+      "BLEEP",
+      "TRUSS",
+      "ECLAT"
+    ],
+    "initial": "BOTESLLCAEUQPESAHARIT"
+  },
+  {
+    "id": 106,
+    "horizontals": [
+      "BATHE",
+      "CLOVE",
+      "NUTTY"
+    ],
+    "verticals": [
+      "BACON",
+      "TROUT",
+      "ELEGY"
+    ],
+    "initial": "LALYTARUCBTVEHOGNETUO"
+  },
+  {
+    "id": 107,
+    "horizontals": [
+      "BATHE",
+      "LUPUS",
+      "HARPY"
+    ],
+    "verticals": [
+      "BELCH",
+      "TAPER",
+      "ESSAY"
+    ],
+    "initial": "BATHPEEUHSPULRSEAACAY"
+  },
+  {
+    "id": 108,
+    "horizontals": [
+      "BATHE",
+      "COCOA",
+      "NATAL"
+    ],
+    "verticals": [
+      "BACON",
+      "TACIT",
+      "EMAIL"
+    ],
+    "initial": "AAAHCABIETOCOOIMLATAN"
+  },
+  {
+    "id": 109,
+    "horizontals": [
+      "BATHE",
+      "COMIC",
+      "PURSE"
+    ],
+    "verticals": [
+      "BICEP",
+      "TAMER",
+      "EMCEE"
+    ],
+    "initial": "CITHEIAOMRMUCEBEESAPE"
+  },
+  {
+    "id": 110,
+    "horizontals": [
+      "BATHE",
+      "SWUNG",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TAUNT",
+      "EAGER"
+    ],
+    "initial": "BTUAEWAAEATSGRNHLAAEN"
+  },
+  {
+    "id": 111,
+    "horizontals": [
+      "BATHE",
+      "STEIN",
+      "SWAMI"
+    ],
+    "verticals": [
+      "BASIS",
+      "THETA",
+      "ENNUI"
+    ],
+    "initial": "NATHETHNTEAIBIIUWSAMS"
+  },
+  {
+    "id": 112,
+    "horizontals": [
+      "BATHE",
+      "TRUSS",
+      "HARPY"
+    ],
+    "verticals": [
+      "BATCH",
+      "TRUER",
+      "ESSAY"
+    ],
+    "initial": "BATAUASRTHCSSEEAYHRPR"
+  },
+  {
+    "id": 113,
+    "horizontals": [
+      "BATHE",
+      "FENCE",
+      "TERRA"
+    ],
+    "verticals": [
+      "BEFIT",
+      "TENOR",
+      "ENEMA"
+    ],
+    "initial": "EETBEREIFENAANEMTOHRC"
+  },
+  {
+    "id": 114,
+    "horizontals": [
+      "BATHE",
+      "SHAFT",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TOAST",
+      "EATER"
+    ],
+    "initial": "AATHOBLASESFATAREATEH"
+  },
+  {
+    "id": 115,
+    "horizontals": [
+      "BATHE",
+      "AUDIT",
+      "SALTY"
+    ],
+    "verticals": [
+      "BRASS",
+      "TIDAL",
+      "ENTRY"
+    ],
+    "initial": "EATHALINRUAYTSIRASBTD"
+  },
+  {
+    "id": 116,
+    "horizontals": [
+      "BATHE",
+      "SHARD",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TOAST",
+      "ELDER"
+    ],
+    "initial": "ADHHLAATOBARSETESALER"
+  },
+  {
+    "id": 117,
+    "horizontals": [
+      "BATHE",
+      "ARMOR",
+      "SPOKE"
+    ],
+    "verticals": [
+      "BRASS",
+      "TEMPO",
+      "EERIE"
+    ],
+    "initial": "BARIERPEAREOHSKOSPETM"
+  },
+  {
+    "id": 118,
+    "horizontals": [
+      "BATHE",
+      "SPICE",
+      "SALTY"
+    ],
+    "verticals": [
+      "BASIS",
+      "TRIAL",
+      "ELEGY"
+    ],
+    "initial": "ATGHESRLBPECTAAIISLAY"
+  },
+  {
+    "id": 119,
+    "horizontals": [
+      "BATHE",
+      "CRIMP",
+      "NATAL"
+    ],
+    "verticals": [
+      "BACON",
+      "TAINT",
+      "EXPEL"
+    ],
+    "initial": "AXATOHAAETIMPLNCNARBE"
+  },
+  {
+    "id": 120,
+    "horizontals": [
+      "BATHE",
+      "AGENT",
+      "LATER"
+    ],
+    "verticals": [
+      "BRAWL",
+      "THEFT",
+      "EATER"
+    ],
+    "initial": "HATAEREAAEENTWFBHLTRG"
+  },
+  {
+    "id": 121,
+    "horizontals": [
+      "BATHE",
+      "BUILD",
+      "ESTER"
+    ],
+    "verticals": [
+      "BIBLE",
+      "TAINT",
+      "ELDER"
+    ],
+    "initial": "BTRHEIALEBNSLDIUETAEL"
+  },
+  {
+    "id": 122,
+    "horizontals": [
+      "BATHE",
+      "CHAOS",
+      "NATAL"
+    ],
+    "verticals": [
+      "BACON",
+      "TOAST",
+      "EASEL"
+    ],
+    "initial": "BATHCEOOEAHASASONAATL"
+  },
+  {
+    "id": 123,
+    "horizontals": [
+      "BATHE",
+      "ROUGH",
+      "ESTER"
+    ],
+    "verticals": [
+      "BARGE",
+      "TAUNT",
+      "ETHER"
+    ],
+    "initial": "BTTUHNAORHAGEEAGETSER"
+  },
+  {
+    "id": 124,
+    "horizontals": [
+      "BATHE",
+      "SWINE",
+      "SALTY"
+    ],
+    "verticals": [
+      "BASIS",
+      "TRIAL",
+      "ELEGY"
+    ],
+    "initial": "AITREHTLLANBEAIGSAWSY"
+  },
+  {
+    "id": 125,
+    "horizontals": [
+      "BATHE",
+      "LIGHT",
+      "HARPY"
+    ],
+    "verticals": [
+      "BELCH",
+      "TIGER",
+      "ENTRY"
+    ],
+    "initial": "LETHEAICGRBTYNHHIARPE"
+  },
+  {
+    "id": 126,
+    "horizontals": [
+      "BATHE",
+      "CRAFT",
+      "NATAL"
+    ],
+    "verticals": [
+      "BACON",
+      "TOAST",
+      "EXTOL"
+    ],
+    "initial": "NATOBACOSTAARXHOFETAL"
+  },
+  {
+    "id": 127,
+    "horizontals": [
+      "BATHE",
+      "RUMOR",
+      "HARPY"
+    ],
+    "verticals": [
+      "BERTH",
+      "TAMER",
+      "EARLY"
+    ],
+    "initial": "BAUHREOATLMTRAEHRAEPY"
+  },
+  {
+    "id": 128,
+    "horizontals": [
+      "BATHE",
+      "BOUND",
+      "ESTER"
+    ],
+    "verticals": [
+      "BIBLE",
+      "TAUNT",
+      "ELDER"
+    ],
+    "initial": "LNTTEIAUBOHNBDEESALER"
+  },
+  {
+    "id": 129,
+    "horizontals": [
+      "BATHE",
+      "TONAL",
+      "YEAST"
+    ],
+    "verticals": [
+      "BATTY",
+      "TONGA",
+      "ECLAT"
+    ],
+    "initial": "BLOHEETNSAACATTAYAOGT"
+  },
+  {
+    "id": 130,
+    "horizontals": [
+      "BATHE",
+      "DINGO",
+      "EARTH"
+    ],
+    "verticals": [
+      "BADGE",
+      "TENOR",
+      "EPOCH"
+    ],
+    "initial": "HAABGEOCDINGEHEPOTRTA"
+  },
+  {
+    "id": 131,
+    "horizontals": [
+      "BATHE",
+      "AMAZE",
+      "SALTY"
+    ],
+    "verticals": [
+      "BRASS",
+      "TRAIL",
+      "ELEGY"
+    ],
+    "initial": "BZTAEEYLAMIHTSARSGLAR"
+  },
+  {
+    "id": 132,
+    "horizontals": [
+      "BATHE",
+      "VAULT",
+      "LATER"
+    ],
+    "verticals": [
+      "BEVEL",
+      "TAUNT",
+      "EATER"
+    ],
+    "initial": "LAAEUEABEETATNHVLATER"
+  },
+  {
+    "id": 133,
+    "horizontals": [
+      "BATHE",
+      "LEMON",
+      "RADII"
+    ],
+    "verticals": [
+      "BALER",
+      "TIMID",
+      "ENNUI"
+    ],
+    "initial": "EAIDIUINTIRHMEEAOANLB"
+  },
+  {
+    "id": 134,
+    "horizontals": [
+      "BATHE",
+      "NINTH",
+      "LATER"
+    ],
+    "verticals": [
+      "BANAL",
+      "TENET",
+      "ETHER"
+    ],
+    "initial": "AHIEETEANETTHTEALBANR"
+  },
+  {
+    "id": 135,
+    "horizontals": [
+      "BATHE",
+      "LUMEN",
+      "RADII"
+    ],
+    "verticals": [
+      "BALER",
+      "TIMID",
+      "ENNUI"
+    ],
+    "initial": "BLTINAIAAUMENEIUREDIH"
+  },
+  {
+    "id": 136,
+    "horizontals": [
+      "BATHE",
+      "SHORT",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TROUT",
+      "EATER"
+    ],
+    "initial": "ULRHEARARAOBTATESATEH"
+  },
+  {
+    "id": 137,
+    "horizontals": [
+      "BATHE",
+      "VOICE",
+      "LOFTY"
+    ],
+    "verticals": [
+      "BEVEL",
+      "THIEF",
+      "ELEGY"
+    ],
+    "initial": "CLVHHEBLTEIFEAEGYOETO"
+  },
+  {
+    "id": 138,
+    "horizontals": [
+      "BATHE",
+      "SINGE",
+      "SALTY"
+    ],
+    "verticals": [
+      "BASIS",
+      "TONAL",
+      "ELEGY"
+    ],
+    "initial": "EASHEGTLYANBOIAASGLTI"
+  },
+  {
+    "id": 139,
+    "horizontals": [
+      "BATHE",
+      "SHUSH",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TAUNT",
+      "ETHER"
+    ],
+    "initial": "TLTBERATEAASHHNEAHUSA"
+  },
+  {
+    "id": 140,
+    "horizontals": [
+      "BATHE",
+      "SINCE",
+      "SALTY"
+    ],
+    "verticals": [
+      "BASIS",
+      "TONAL",
+      "ELEGY"
+    ],
+    "initial": "BHAIOELTSCNAEIAASGLTY"
+  },
+  {
+    "id": 141,
+    "horizontals": [
+      "BATHE",
+      "GUILE",
+      "NUTTY"
+    ],
+    "verticals": [
+      "BEGAN",
+      "TAINT",
+      "ELEGY"
+    ],
+    "initial": "BAYTLETUGUAGELNANEHTI"
+  },
+  {
+    "id": 142,
+    "horizontals": [
+      "BATHE",
+      "SPILL",
+      "SLEPT"
+    ],
+    "verticals": [
+      "BASIS",
+      "TRIBE",
+      "ECLAT"
+    ],
+    "initial": "EAIHCATESLPLBRBASLIPT"
+  },
+  {
+    "id": 143,
+    "horizontals": [
+      "BATHE",
+      "GUESS",
+      "NATAL"
+    ],
+    "verticals": [
+      "BEGAN",
+      "THEFT",
+      "EASEL"
+    ],
+    "initial": "GUTAHEHAEFEASSAENATBL"
+  },
+  {
+    "id": 144,
+    "horizontals": [
+      "BATHE",
+      "FRIAR",
+      "TEDDY"
+    ],
+    "verticals": [
+      "BEFIT",
+      "THIRD",
+      "EARLY"
+    ],
+    "initial": "EATHIYHEFRBEDARLIARDT"
+  },
+  {
+    "id": 145,
+    "horizontals": [
+      "BATHE",
+      "UNWED",
+      "RARER"
+    ],
+    "verticals": [
+      "BLUER",
+      "TOWER",
+      "ELDER"
+    ],
+    "initial": "BETHERNOULREAEEARLDWE"
+  },
+  {
+    "id": 146,
+    "horizontals": [
+      "BATHE",
+      "OTTER",
+      "LYMPH"
+    ],
+    "verticals": [
+      "BROIL",
+      "TOTEM",
+      "EARTH"
+    ],
+    "initial": "AATOBTIEOHLETRETHYMPR"
+  },
+  {
+    "id": 147,
+    "horizontals": [
+      "BATHE",
+      "STING",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TAINT",
+      "EAGER"
+    ],
+    "initial": "LEBSAAAANTIGAHNTEATER"
+  },
+  {
+    "id": 148,
+    "horizontals": [
+      "BATHE",
+      "GRAND",
+      "LATER"
+    ],
+    "verticals": [
+      "BAGEL",
+      "TOAST",
+      "ELDER"
+    ],
+    "initial": "BLTLEAOEGTHNDASRAREEA"
+  },
+  {
+    "id": 149,
+    "horizontals": [
+      "BATHE",
+      "IGLOO",
+      "GIPSY"
+    ],
+    "verticals": [
+      "BEING",
+      "TULIP",
+      "EBONY"
+    ],
+    "initial": "HBGYIEAOPIBTONINGUESL"
+  },
+  {
+    "id": 150,
+    "horizontals": [
+      "BATHE",
+      "ROUTE",
+      "HARPY"
+    ],
+    "verticals": [
+      "BERTH",
+      "TRUER",
+      "ELEGY"
+    ],
+    "initial": "RHEHTOYLTEURETEAABGPR"
+  },
+  {
+    "id": 151,
+    "horizontals": [
+      "BATHE",
+      "TOUCH",
+      "LATER"
+    ],
+    "verticals": [
+      "BETEL",
+      "TAUNT",
+      "ETHER"
+    ],
+    "initial": "BCTHEEEEHTUATONEATLAR"
+  },
+  {
+    "id": 152,
+    "horizontals": [
+      "BATHE",
+      "SCENE",
+      "SHADY"
+    ],
+    "verticals": [
+      "BASIS",
+      "THETA",
+      "ELEGY"
+    ],
+    "initial": "LASTEAHBSCEETNDGYHAIH"
+  },
+  {
+    "id": 153,
+    "horizontals": [
+      "BATHE",
+      "FLINT",
+      "TALON"
+    ],
+    "verticals": [
+      "BEFIT",
+      "TRIAL",
+      "EATEN"
+    ],
+    "initial": "ATTNEERLHOINTIABEFLAA"
+  },
+  {
+    "id": 154,
+    "horizontals": [
+      "BATHE",
+      "SUING",
+      "LATER"
+    ],
+    "verticals": [
+      "BASAL",
+      "TAINT",
+      "EAGER"
+    ],
+    "initial": "BTTAEUAAASANEAINLGEHR"
+  },
+  {
+    "id": 155,
+    "horizontals": [
+      "PLACE",
+      "ADMIT",
+      "HERON"
+    ],
+    "verticals": [
+      "PEACH",
+      "ARMOR",
+      "EATEN"
+    ],
+    "initial": "PEAEAOTARRMECIODHLECN"
+  },
+  {
+    "id": 156,
+    "horizontals": [
+      "PLACE",
+      "SWORE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABODE",
+      "EJECT"
+    ],
+    "initial": "EECSALCPBWOJATDARDEPT"
+  },
+  {
+    "id": 157,
+    "horizontals": [
+      "PLACE",
+      "ALIVE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PLAZA",
+      "ABIDE",
+      "EJECT"
+    ],
+    "initial": "ELELLCPJPAIEVDDACZBAT"
+  },
+  {
+    "id": 158,
+    "horizontals": [
+      "PLACE",
+      "OXIDE",
+      "GAILY"
+    ],
+    "verticals": [
+      "PRONG",
+      "ALIBI",
+      "ELEGY"
+    ],
+    "initial": "EPACENXLOGILLRBGDAILY"
+  },
+  {
+    "id": 159,
+    "horizontals": [
+      "PLACE",
+      "TEMPO",
+      "HUNCH"
+    ],
+    "verticals": [
+      "PATCH",
+      "ADMIN",
+      "EPOCH"
+    ],
+    "initial": "ILECEPDPTOHCMNPCAUHCA"
+  },
+  {
+    "id": 160,
+    "horizontals": [
+      "PLACE",
+      "RHINO",
+      "HUNCH"
+    ],
+    "verticals": [
+      "PERCH",
+      "ALIEN",
+      "EPOCH"
+    ],
+    "initial": "ALHCOPEPEHICLCRCEUNNH"
+  },
+  {
+    "id": 161,
+    "horizontals": [
+      "PLACE",
+      "DECOR",
+      "LITHE"
+    ],
+    "verticals": [
+      "PEDAL",
+      "ASCOT",
+      "EERIE"
+    ],
+    "initial": "ALDHEEICELTORPOISEACE"
+  },
+  {
+    "id": 162,
+    "horizontals": [
+      "PLACE",
+      "EATER",
+      "TERSE"
+    ],
+    "verticals": [
+      "PLEAT",
+      "ACTOR",
+      "EERIE"
+    ],
+    "initial": "PLTCELCSEAEERAEITEARO"
+  },
+  {
+    "id": 163,
+    "horizontals": [
+      "PLACE",
+      "CLOUD",
+      "NADIR"
+    ],
+    "verticals": [
+      "PECAN",
+      "ALOUD",
+      "ELDER"
+    ],
+    "initial": "PLNCLCULELORDAUEEDAAI"
+  },
+  {
+    "id": 164,
+    "horizontals": [
+      "PLACE",
+      "STARE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABASE",
+      "EJECT"
+    ],
+    "initial": "CSATEABJPTARTDSCALEPE"
+  },
+  {
+    "id": 165,
+    "horizontals": [
+      "PLACE",
+      "BRASH",
+      "CYNIC"
+    ],
+    "verticals": [
+      "PUBIC",
+      "AGAIN",
+      "ETHIC"
+    ],
+    "initial": "PUNSGIETBRAACIYICHLIC"
+  },
+  {
+    "id": 166,
+    "horizontals": [
+      "PLACE",
+      "TILDE",
+      "HOWDY"
+    ],
+    "verticals": [
+      "PATCH",
+      "AGLOW",
+      "ELEGY"
+    ],
+    "initial": "HLACECGLAIEOWTDGPYLDO"
+  },
+  {
+    "id": 167,
+    "horizontals": [
+      "PLACE",
+      "SLICE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABIDE",
+      "EJECT"
+    ],
+    "initial": "CLPCEAPSELACITDTADEBJ"
+  },
+  {
+    "id": 168,
+    "horizontals": [
+      "PLACE",
+      "BRIDE",
+      "CREPT"
+    ],
+    "verticals": [
+      "PUBIC",
+      "ABIDE",
+      "EJECT"
+    ],
+    "initial": "PLBCEUETJCDIEIBRCARDP"
+  },
+  {
+    "id": 169,
+    "horizontals": [
+      "PLACE",
+      "POLYP",
+      "ROWDY"
+    ],
+    "verticals": [
+      "PAPER",
+      "AGLOW",
+      "EMPTY"
+    ],
+    "initial": "DMRCEOGPLOTPYPOEAAWYL"
+  },
+  {
+    "id": 170,
+    "horizontals": [
+      "PLACE",
+      "CHOSE",
+      "NINNY"
+    ],
+    "verticals": [
+      "PECAN",
+      "ACORN",
+      "ELEGY"
+    ],
+    "initial": "EALCEACPHOLCESRGNINNY"
+  },
+  {
+    "id": 171,
+    "horizontals": [
+      "PLACE",
+      "THIEF",
+      "LINEN"
+    ],
+    "verticals": [
+      "PETAL",
+      "ALIEN",
+      "ELFIN"
+    ],
+    "initial": "PLTCEILHANINFAEILELEE"
+  },
+  {
+    "id": 172,
+    "horizontals": [
+      "PLACE",
+      "ATONE",
+      "MAFIA"
+    ],
+    "verticals": [
+      "PSALM",
+      "ALOOF",
+      "ENEMA"
+    ],
+    "initial": "MLACAALFETIPELSMNNOOA"
+  },
+  {
+    "id": 173,
+    "horizontals": [
+      "PLACE",
+      "BINGO",
+      "CEASE"
+    ],
+    "verticals": [
+      "PUBIC",
+      "APNEA",
+      "ELOPE"
+    ],
+    "initial": "CLPCEUAENIPBOEEAIGPLS"
+  },
+  {
+    "id": 174,
+    "horizontals": [
+      "PLACE",
+      "TRACE",
+      "HUSKY"
+    ],
+    "verticals": [
+      "PATCH",
+      "AMASS",
+      "ELEGY"
+    ],
+    "initial": "PTALRAMUCKECLAYGHESCS"
+  },
+  {
+    "id": 175,
+    "horizontals": [
+      "PLACE",
+      "USHER",
+      "HUNCH"
+    ],
+    "verticals": [
+      "PLUSH",
+      "ASHEN",
+      "EARTH"
+    ],
+    "initial": "PEECSHSTAHHALREUCUNSL"
+  },
+  {
+    "id": 176,
+    "horizontals": [
+      "PLACE",
+      "OWING",
+      "OXIDE"
+    ],
+    "verticals": [
+      "PHOTO",
+      "ALIBI",
+      "EAGLE"
+    ],
+    "initial": "GLOCDNLAPLIBETHWEXIAO"
+  },
+  {
+    "id": 177,
+    "horizontals": [
+      "PLACE",
+      "STATE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABASE",
+      "EJECT"
+    ],
+    "initial": "SETCAAASJPABPTTCLDEET"
+  },
+  {
+    "id": 178,
+    "horizontals": [
+      "PLACE",
+      "ARGUE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PLAZA",
+      "ALGAE",
+      "EJECT"
+    ],
+    "initial": "PLJCTAUCLPELEZGAADERA"
+  },
+  {
+    "id": 179,
+    "horizontals": [
+      "PLACE",
+      "ACTOR",
+      "TERSE"
+    ],
+    "verticals": [
+      "PLAIT",
+      "AFTER",
+      "EERIE"
+    ],
+    "initial": "PELTELEEOCSFRTIIRAACE"
+  },
+  {
+    "id": 180,
+    "horizontals": [
+      "PLACE",
+      "DROSS",
+      "LADLE"
+    ],
+    "verticals": [
+      "PEDAL",
+      "ALOUD",
+      "ENSUE"
+    ],
+    "initial": "PREUAULLDNOSSEACLADLE"
+  },
+  {
+    "id": 181,
+    "horizontals": [
+      "PLACE",
+      "SNORE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABODE",
+      "EJECT"
+    ],
+    "initial": "RAACECBJPNOLSADDTTEPE"
+  },
+  {
+    "id": 182,
+    "horizontals": [
+      "PLACE",
+      "VERVE",
+      "TAWNY"
+    ],
+    "verticals": [
+      "PIVOT",
+      "ARROW",
+      "ELEGY"
+    ],
+    "initial": "PEGCRELAVWRVTOANOEILY"
+  },
+  {
+    "id": 183,
+    "horizontals": [
+      "PLACE",
+      "NUDGE",
+      "CARAT"
+    ],
+    "verticals": [
+      "PANIC",
+      "AIDER",
+      "EJECT"
+    ],
+    "initial": "PDACAALJTUAGEINECIRCE"
+  },
+  {
+    "id": 184,
+    "horizontals": [
+      "PLACE",
+      "BRIAR",
+      "CINCH"
+    ],
+    "verticals": [
+      "PUBIC",
+      "ALIEN",
+      "EARTH"
+    ],
+    "initial": "CURCELABAELIRIAPCINHT"
+  },
+  {
+    "id": 185,
+    "horizontals": [
+      "PLACE",
+      "ELITE",
+      "TESTY"
+    ],
+    "verticals": [
+      "PLEAT",
+      "AMISS",
+      "ELEGY"
+    ],
+    "initial": "LLLTEPETILCYEASTEMSGA"
+  },
+  {
+    "id": 186,
+    "horizontals": [
+      "PLACE",
+      "SOOTH",
+      "AUGUR"
+    ],
+    "verticals": [
+      "PASTA",
+      "ALONG",
+      "ETHER"
+    ],
+    "initial": "NTLUEAHTEOTPOAGCAULSR"
+  },
+  {
+    "id": 187,
+    "horizontals": [
+      "PLACE",
+      "STORE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABODE",
+      "EJECT"
+    ],
+    "initial": "PLTCEASJDBEECAOTADRPT"
+  },
+  {
+    "id": 188,
+    "horizontals": [
+      "PLACE",
+      "ELOPE",
+      "SMART"
+    ],
+    "verticals": [
+      "PRESS",
+      "AGORA",
+      "EJECT"
+    ],
+    "initial": "ALRPOCGJELMPESRCAERST"
+  },
+  {
+    "id": 189,
+    "horizontals": [
+      "PLACE",
+      "ENSUE",
+      "NINNY"
+    ],
+    "verticals": [
+      "PREEN",
+      "ARSON",
+      "ELEGY"
+    ],
+    "initial": "LUNEERCEPGSRLEOANINNY"
+  },
+  {
+    "id": 190,
+    "horizontals": [
+      "PLACE",
+      "SAVOR",
+      "TULLE"
+    ],
+    "verticals": [
+      "POSIT",
+      "ANVIL",
+      "EERIE"
+    ],
+    "initial": "ELLUELNISVAPOIACTIORE"
+  },
+  {
+    "id": 191,
+    "horizontals": [
+      "PLACE",
+      "RABBI",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PARKA",
+      "AMBLE",
+      "EDICT"
+    ],
+    "initial": "DLAARCMDECBPBALKIPEAT"
+  },
+  {
+    "id": 192,
+    "horizontals": [
+      "PLACE",
+      "WIELD",
+      "ROTOR"
+    ],
+    "verticals": [
+      "POWER",
+      "ADEPT",
+      "ELDER"
+    ],
+    "initial": "PRWDTEDCLIOLEEPOLAOER"
+  },
+  {
+    "id": 193,
+    "horizontals": [
+      "PLACE",
+      "CHAFE",
+      "NINNY"
+    ],
+    "verticals": [
+      "PECAN",
+      "AGAIN",
+      "ELEGY"
+    ],
+    "initial": "GAACEYAPCGIFENLHNIENL"
+  },
+  {
+    "id": 194,
+    "horizontals": [
+      "PLACE",
+      "SHALL",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABASE",
+      "ECLAT"
+    ],
+    "initial": "PSLDEATCSAALLTHAACEPB"
+  },
+  {
+    "id": 195,
+    "horizontals": [
+      "PLACE",
+      "SHIRE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABIDE",
+      "EJECT"
+    ],
+    "initial": "PCACRABJDHITLDSTAEEPE"
+  },
+  {
+    "id": 196,
+    "horizontals": [
+      "PLACE",
+      "CHIDE",
+      "NOISY"
+    ],
+    "verticals": [
+      "PECAN",
+      "ALIBI",
+      "ELEGY"
+    ],
+    "initial": "IASCYOGEPHLLLABCNDIEE"
+  },
+  {
+    "id": 197,
+    "horizontals": [
+      "PLACE",
+      "DRAFT",
+      "LINEN"
+    ],
+    "verticals": [
+      "PEDAL",
+      "AGAIN",
+      "EATEN"
+    ],
+    "initial": "PALAEEGRDNAFTEICLINEA"
+  },
+  {
+    "id": 198,
+    "horizontals": [
+      "PLACE",
+      "SLANT",
+      "TESTY"
+    ],
+    "verticals": [
+      "POSIT",
+      "AMASS",
+      "ENTRY"
+    ],
+    "initial": "IOAPMTTLSCANNLTEERSSY"
+  },
+  {
+    "id": 199,
+    "horizontals": [
+      "PLACE",
+      "TWINE",
+      "HUSKY"
+    ],
+    "verticals": [
+      "PATCH",
+      "AMISS",
+      "ELEGY"
+    ],
+    "initial": "MALCEEYCUWINKHSGALSPT"
+  },
+  {
+    "id": 200,
+    "horizontals": [
+      "PLACE",
+      "LIMBO",
+      "TERSE"
+    ],
+    "verticals": [
+      "PILOT",
+      "ARMOR",
+      "ELOPE"
+    ],
+    "initial": "CALLEOPPROMLIOBITERSE"
+  },
+  {
+    "id": 201,
+    "horizontals": [
+      "PLACE",
+      "BAYOU",
+      "CASTE"
+    ],
+    "verticals": [
+      "PUBIC",
+      "ABYSS",
+      "ELUDE"
+    ],
+    "initial": "OCACTUBEBSAPUIADLYSLE"
+  },
+  {
+    "id": 202,
+    "horizontals": [
+      "PLACE",
+      "PURSE",
+      "ROWDY"
+    ],
+    "verticals": [
+      "PAPER",
+      "ARROW",
+      "ELEGY"
+    ],
+    "initial": "PLUAROELPARSWCREEGODY"
+  },
+  {
+    "id": 203,
+    "horizontals": [
+      "PLACE",
+      "ETHER",
+      "TERSE"
+    ],
+    "verticals": [
+      "PLEAT",
+      "ABHOR",
+      "EERIE"
+    ],
+    "initial": "HLECTOBEEAETRALIPERSE"
+  },
+  {
+    "id": 204,
+    "horizontals": [
+      "PLACE",
+      "TUMOR",
+      "HUNCH"
+    ],
+    "verticals": [
+      "PATCH",
+      "ADMIN",
+      "EARTH"
+    ],
+    "initial": "PAICETAOTUHARDCUMLNCH"
+  },
+  {
+    "id": 205,
+    "horizontals": [
+      "PLACE",
+      "RESET",
+      "ROTOR"
+    ],
+    "verticals": [
+      "PARER",
+      "ASSET",
+      "EATER"
+    ],
+    "initial": "CAAEELETRESSERETAOPOR"
+  },
+  {
+    "id": 206,
+    "horizontals": [
+      "PLACE",
+      "AGORA",
+      "TULLE"
+    ],
+    "verticals": [
+      "PLAIT",
+      "AFOUL",
+      "ELATE"
+    ],
+    "initial": "PFACELULAGLRTIOLLUATE"
+  },
+  {
+    "id": 207,
+    "horizontals": [
+      "PLACE",
+      "SPLAT",
+      "TAWNY"
+    ],
+    "verticals": [
+      "POSIT",
+      "AGLOW",
+      "ENTRY"
+    ],
+    "initial": "LICGEOYNWPLPTARATASON"
+  },
+  {
+    "id": 208,
+    "horizontals": [
+      "PLACE",
+      "ADOBE",
+      "MAFIA"
+    ],
+    "verticals": [
+      "PSALM",
+      "ALOOF",
+      "ENEMA"
+    ],
+    "initial": "FBACAILOLNDMELMAOEPAS"
+  },
+  {
+    "id": 209,
+    "horizontals": [
+      "PLACE",
+      "LIBEL",
+      "ADEPT"
+    ],
+    "verticals": [
+      "POLKA",
+      "AMBLE",
+      "ECLAT"
+    ],
+    "initial": "KLADAOCCBMIELELPALEPT"
+  },
+  {
+    "id": 210,
+    "horizontals": [
+      "PLACE",
+      "WELSH",
+      "ROTOR"
+    ],
+    "verticals": [
+      "POWER",
+      "ALLOT",
+      "ETHER"
+    ],
+    "initial": "LRHOOELEWETCLAOEPSTOR"
+  },
+  {
+    "id": 211,
+    "horizontals": [
+      "PLACE",
+      "EARTH",
+      "SOWER"
+    ],
+    "verticals": [
+      "PRESS",
+      "ARROW",
+      "ETHER"
+    ],
+    "initial": "PCALERETEEROAHORRTWSS"
+  },
+  {
+    "id": 212,
+    "horizontals": [
+      "PLACE",
+      "ALIBI",
+      "TULLE"
+    ],
+    "verticals": [
+      "PLAIT",
+      "AXIAL",
+      "ELIDE"
+    ],
+    "initial": "PLATLLXLABICUIIDAELLE"
+  },
+  {
+    "id": 213,
+    "horizontals": [
+      "PLACE",
+      "BROKE",
+      "CREPT"
+    ],
+    "verticals": [
+      "PUBIC",
+      "ABODE",
+      "EJECT"
+    ],
+    "initial": "PEACDEBUBCOREICLJRKPT"
+  },
+  {
+    "id": 214,
+    "horizontals": [
+      "PLACE",
+      "SPIKE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABIDE",
+      "EJECT"
+    ],
+    "initial": "PCAETABCPDIALEDJKSEPT"
+  },
+  {
+    "id": 215,
+    "horizontals": [
+      "PLACE",
+      "ISSUE",
+      "MANGA"
+    ],
+    "verticals": [
+      "PRISM",
+      "ARSON",
+      "ENEMA"
+    ],
+    "initial": "PEACARSNILSUSRONMGMEA"
+  },
+  {
+    "id": 216,
+    "horizontals": [
+      "PLACE",
+      "SKIRT",
+      "AUGUR"
+    ],
+    "verticals": [
+      "PASTA",
+      "AGING",
+      "EATER"
+    ],
+    "initial": "ATUCEGIAGKAPTLNESARUR"
+  },
+  {
+    "id": 217,
+    "horizontals": [
+      "PLACE",
+      "GROPE",
+      "NINNY"
+    ],
+    "verticals": [
+      "PAGAN",
+      "ACORN",
+      "ELEGY"
+    ],
+    "initial": "PIOEAECNCRAPGANGNLRLY"
+  },
+  {
+    "id": 218,
+    "horizontals": [
+      "PLACE",
+      "SEPIA",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "AMPLE",
+      "ENACT"
+    ],
+    "initial": "ELELAAMPSTCIEATCPDNPA"
+  },
+  {
+    "id": 219,
+    "horizontals": [
+      "PLACE",
+      "VODKA",
+      "TROLL"
+    ],
+    "verticals": [
+      "PIVOT",
+      "AUDIO",
+      "EMAIL"
+    ],
+    "initial": "KLACRIMUOODEPIVITAOLL"
+  },
+  {
+    "id": 220,
+    "horizontals": [
+      "PLACE",
+      "EXACT",
+      "STERN"
+    ],
+    "verticals": [
+      "PRESS",
+      "ABASE",
+      "EATEN"
+    ],
+    "initial": "RLAEBPAEECACSTSESTXRN"
+  },
+  {
+    "id": 221,
+    "horizontals": [
+      "PLACE",
+      "PERCH",
+      "RADAR"
+    ],
+    "verticals": [
+      "PAPER",
+      "ACRID",
+      "ETHER"
+    ],
+    "initial": "EEARCACTIEECPLRPHARAD"
+  },
+  {
+    "id": 222,
+    "horizontals": [
+      "PLACE",
+      "NADIR",
+      "LITHE"
+    ],
+    "verticals": [
+      "PANEL",
+      "AUDIT",
+      "EERIE"
+    ],
+    "initial": "LLECHAUEIADERAIINPTEI"
+  },
+  {
+    "id": 223,
+    "horizontals": [
+      "PLACE",
+      "TIGHT",
+      "HERON"
+    ],
+    "verticals": [
+      "PATCH",
+      "ANGER",
+      "EATEN"
+    ],
+    "initial": "PTANELNAECGHACEOIEHRT"
+  },
+  {
+    "id": 224,
+    "horizontals": [
+      "PLACE",
+      "POUCH",
+      "ROTOR"
+    ],
+    "verticals": [
+      "PAPER",
+      "ADULT",
+      "ETHER"
+    ],
+    "initial": "ECEREALAPPULHRCOOOTDT"
+  },
+  {
+    "id": 225,
+    "horizontals": [
+      "PLACE",
+      "ANGLE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PLAZA",
+      "ALGAE",
+      "EJECT"
+    ],
+    "initial": "EJCADCLPALELLZAANGETP"
+  },
+  {
+    "id": 226,
+    "horizontals": [
+      "PLACE",
+      "RUPEE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PARKA",
+      "AMPLE",
+      "EJECT"
+    ],
+    "initial": "DACPEMRJEKPUEALCAPELT"
+  },
+  {
+    "id": 227,
+    "horizontals": [
+      "PLACE",
+      "LAYER",
+      "PESKY"
+    ],
+    "verticals": [
+      "POLYP",
+      "ABYSS",
+      "EARLY"
+    ],
+    "initial": "PEASPRBALEYEALOYCYSKL"
+  },
+  {
+    "id": 228,
+    "horizontals": [
+      "PLACE",
+      "BASTE",
+      "CREPT"
+    ],
+    "verticals": [
+      "PUBIC",
+      "AISLE",
+      "EJECT"
+    ],
+    "initial": "PAEJELIABITSCEUCCRLPT"
+  },
+  {
+    "id": 229,
+    "horizontals": [
+      "PLACE",
+      "SHAKE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABASE",
+      "EJECT"
+    ],
+    "initial": "PAAPELCASHBKEESCJDTAT"
+  },
+  {
+    "id": 230,
+    "horizontals": [
+      "PLACE",
+      "PARSE",
+      "ROWDY"
+    ],
+    "verticals": [
+      "PAPER",
+      "ARROW",
+      "ELEGY"
+    ],
+    "initial": "ELRREOGLAWRSECOPAPADY"
+  },
+  {
+    "id": 231,
+    "horizontals": [
+      "PLACE",
+      "SHALE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABASE",
+      "EJECT"
+    ],
+    "initial": "BLECPAEJLEPTAASCADHST"
+  },
+  {
+    "id": 232,
+    "horizontals": [
+      "PLACE",
+      "SLUSH",
+      "ROTOR"
+    ],
+    "verticals": [
+      "POSER",
+      "ADULT",
+      "ETHER"
+    ],
+    "initial": "OLLCTROTUESEHELRPDAOS"
+  },
+  {
+    "id": 233,
+    "horizontals": [
+      "PLACE",
+      "TENOR",
+      "LEASE"
+    ],
+    "verticals": [
+      "PETAL",
+      "APNEA",
+      "EERIE"
+    ],
+    "initial": "PLRCOIPETANEAAEEELESE"
+  },
+  {
+    "id": 234,
+    "horizontals": [
+      "PLACE",
+      "TWIXT",
+      "HUSKY"
+    ],
+    "verticals": [
+      "PATCH",
+      "AMISS",
+      "ENTRY"
+    ],
+    "initial": "PCIUYAMTTWLNCESRHXAKS"
+  },
+  {
+    "id": 235,
+    "horizontals": [
+      "PLACE",
+      "GRADE",
+      "NINNY"
+    ],
+    "verticals": [
+      "PAGAN",
+      "AGAIN",
+      "ELEGY"
+    ],
+    "initial": "PLYCNDGAGRAIANLGEENIA"
+  },
+  {
+    "id": 236,
+    "horizontals": [
+      "PLACE",
+      "SUMAC",
+      "TERSE"
+    ],
+    "verticals": [
+      "POSIT",
+      "ARMOR",
+      "EMCEE"
+    ],
+    "initial": "OLERETACSUSPCIOMAERME"
+  },
+  {
+    "id": 237,
+    "horizontals": [
+      "PLACE",
+      "ULTRA",
+      "BARGE"
+    ],
+    "verticals": [
+      "PLUMB",
+      "ACTOR",
+      "ELATE"
+    ],
+    "initial": "ACALUPERCTLLAMOTBLRGE"
+  },
+  {
+    "id": 238,
+    "horizontals": [
+      "PLACE",
+      "LOCUS",
+      "TITHE"
+    ],
+    "verticals": [
+      "PILOT",
+      "ASCOT",
+      "ENSUE"
+    ],
+    "initial": "POCIEINULOLASTTSHCOUE"
+  },
+  {
+    "id": 239,
+    "horizontals": [
+      "PLACE",
+      "SMOTE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABODE",
+      "EJECT"
+    ],
+    "initial": "PTAAJOBESMACEDDCLTEPT"
+  },
+  {
+    "id": 240,
+    "horizontals": [
+      "PLACE",
+      "LANCE",
+      "POLKA"
+    ],
+    "verticals": [
+      "POLYP",
+      "ANNUL",
+      "ENEMA"
+    ],
+    "initial": "PECPOENNAANMCUYLKOLLA"
+  },
+  {
+    "id": 241,
+    "horizontals": [
+      "PLACE",
+      "DOGMA",
+      "LITHE"
+    ],
+    "verticals": [
+      "PEDAL",
+      "ANGST",
+      "ELATE"
+    ],
+    "initial": "LSAELAPLCOGMATNDEITHE"
+  },
+  {
+    "id": 242,
+    "horizontals": [
+      "PLACE",
+      "TERRA",
+      "LADLE"
+    ],
+    "verticals": [
+      "PETAL",
+      "ACRID",
+      "ELATE"
+    ],
+    "initial": "TAECIECAPLLRTARALDELE"
+  },
+  {
+    "id": 243,
+    "horizontals": [
+      "PLACE",
+      "SAUTE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABUSE",
+      "EJECT"
+    ],
+    "initial": "UELEJABPSSATTTCEAACPD"
+  },
+  {
+    "id": 244,
+    "horizontals": [
+      "PLACE",
+      "EGRET",
+      "TAWNY"
+    ],
+    "verticals": [
+      "PLEAT",
+      "ARROW",
+      "ENTRY"
+    ],
+    "initial": "RLANERPGEOLETAARCTWNY"
+  },
+  {
+    "id": 245,
+    "horizontals": [
+      "PLACE",
+      "UNDUE",
+      "DROIT"
+    ],
+    "verticals": [
+      "POUND",
+      "AUDIO",
+      "EJECT"
+    ],
+    "initial": "DUNDEPCIUNCUEAJORIOLT"
+  },
+  {
+    "id": 246,
+    "horizontals": [
+      "PLACE",
+      "SNARL",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABASE",
+      "ECLAT"
+    ],
+    "initial": "ANACEACBLAPALTSSRDEPT"
+  },
+  {
+    "id": 247,
+    "horizontals": [
+      "PLACE",
+      "SHEER",
+      "ROTOR"
+    ],
+    "verticals": [
+      "POSER",
+      "ADEPT",
+      "ERROR"
+    ],
+    "initial": "REROEHDTSPEORPCOREOLA"
+  },
+  {
+    "id": 248,
+    "horizontals": [
+      "PLACE",
+      "TASTE",
+      "HONEY"
+    ],
+    "verticals": [
+      "PATCH",
+      "ARSON",
+      "ELEGY"
+    ],
+    "initial": "TLYCETRAPAENECSGLHAOO"
+  },
+  {
+    "id": 249,
+    "horizontals": [
+      "PLACE",
+      "AWARD",
+      "ASKEW"
+    ],
+    "verticals": [
+      "PLAZA",
+      "ABACK",
+      "ENDOW"
+    ],
+    "initial": "DLPCWAWNAKRALZCEABSOE"
+  },
+  {
+    "id": 250,
+    "horizontals": [
+      "PLACE",
+      "ABOUT",
+      "AUGUR"
+    ],
+    "verticals": [
+      "PLAZA",
+      "ALONG",
+      "EATER"
+    ],
+    "initial": "ZLPUEGRAAUONTABLAECUL"
+  },
+  {
+    "id": 251,
+    "horizontals": [
+      "PLACE",
+      "SHEEP",
+      "APTLY"
+    ],
+    "verticals": [
+      "PASTA",
+      "ADEPT",
+      "EMPTY"
+    ],
+    "initial": "ALAAEPDPSEMCPHLYTPTET"
+  },
+  {
+    "id": 252,
+    "horizontals": [
+      "PLACE",
+      "AFIRE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PLAZA",
+      "ABIDE",
+      "EJECT"
+    ],
+    "initial": "ADCDEEBJAEIFTZALPPLCR"
+  },
+  {
+    "id": 253,
+    "horizontals": [
+      "PLACE",
+      "BRAKE",
+      "CREPT"
+    ],
+    "verticals": [
+      "PUBIC",
+      "ABASE",
+      "EJECT"
+    ],
+    "initial": "CLATPUEEBBAKCSJCRREPI"
+  },
+  {
+    "id": 254,
+    "horizontals": [
+      "PLACE",
+      "NOISE",
+      "EIGHT"
+    ],
+    "verticals": [
+      "PENCE",
+      "AGING",
+      "EJECT"
+    ],
+    "initial": "CLNEPEIJGOAIECNGTSCHE"
+  },
+  {
+    "id": 255,
+    "horizontals": [
+      "PLACE",
+      "IDLER",
+      "TAWNY"
+    ],
+    "verticals": [
+      "PAINT",
+      "AGLOW",
+      "EARLY"
+    ],
+    "initial": "ELNCEAGLIDLPRAWANAOTY"
+  },
+  {
+    "id": 256,
+    "horizontals": [
+      "PLACE",
+      "RIGHT",
+      "HERON"
+    ],
+    "verticals": [
+      "PERCH",
+      "ANGER",
+      "EATEN"
+    ],
+    "initial": "PLACHERANRGOEEEITCEHN"
+  },
+  {
+    "id": 257,
+    "horizontals": [
+      "PLACE",
+      "GRASP",
+      "NASAL"
+    ],
+    "verticals": [
+      "PAGAN",
+      "AMASS",
+      "EXPEL"
+    ],
+    "initial": "PEAXLAMSGRAPSASLNECAA"
+  },
+  {
+    "id": 258,
+    "horizontals": [
+      "PLACE",
+      "ANGEL",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PLAZA",
+      "ALGAE",
+      "ECLAT"
+    ],
+    "initial": "CZNCELLTAADALLPPAAEGE"
+  },
+  {
+    "id": 259,
+    "horizontals": [
+      "PLACE",
+      "CLOTH",
+      "NADIR"
+    ],
+    "verticals": [
+      "PECAN",
+      "ALOUD",
+      "ETHER"
+    ],
+    "initial": "PLANUCHTLLEEEACIRADOT"
+  },
+  {
+    "id": 260,
+    "horizontals": [
+      "PLACE",
+      "WIGHT",
+      "ROTOR"
+    ],
+    "verticals": [
+      "POWER",
+      "ANGST",
+      "EATER"
+    ],
+    "initial": "CLAGEIAORNPHTESEROTOW"
+  },
+  {
+    "id": 261,
+    "horizontals": [
+      "PLACE",
+      "KARMA",
+      "RANGE"
+    ],
+    "verticals": [
+      "POKER",
+      "APRON",
+      "ELATE"
+    ],
+    "initial": "AALPEOPLNCTMAEOGRAREK"
+  },
+  {
+    "id": 262,
+    "horizontals": [
+      "PLACE",
+      "ALTER",
+      "TERSE"
+    ],
+    "verticals": [
+      "PLAIT",
+      "ACTOR",
+      "EERIE"
+    ],
+    "initial": "LLAEELCPOCTERSAIEERIT"
+  },
+  {
+    "id": 263,
+    "horizontals": [
+      "PLACE",
+      "ALOOF",
+      "MELON"
+    ],
+    "verticals": [
+      "PSALM",
+      "AFOUL",
+      "ELFIN"
+    ],
+    "initial": "LLPEESLLALOUFNFIOCMOA"
+  },
+  {
+    "id": 264,
+    "horizontals": [
+      "PLACE",
+      "STIFF",
+      "RESIN"
+    ],
+    "verticals": [
+      "POSER",
+      "AMISS",
+      "ELFIN"
+    ],
+    "initial": "ICPFEOALSNRFITSEIESLM"
+  },
+  {
+    "id": 265,
+    "horizontals": [
+      "PLACE",
+      "LATHE",
+      "ROCKY"
+    ],
+    "verticals": [
+      "PALER",
+      "ANTIC",
+      "ELEGY"
+    ],
+    "initial": "PLHEIENLGATAKELCROCYA"
+  },
+  {
+    "id": 266,
+    "horizontals": [
+      "PLACE",
+      "EXIST",
+      "STERN"
+    ],
+    "verticals": [
+      "PRESS",
+      "ABIDE",
+      "EATEN"
+    ],
+    "initial": "XSADERPLCEISTBASETERN"
+  },
+  {
+    "id": 267,
+    "horizontals": [
+      "PLACE",
+      "AGATE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PLAZA",
+      "ABASE",
+      "EJECT"
+    ],
+    "initial": "PLEAADEJASAPLZECBGCTT"
+  },
+  {
+    "id": 268,
+    "horizontals": [
+      "PLACE",
+      "LLAMA",
+      "TULLE"
+    ],
+    "verticals": [
+      "PILOT",
+      "AVAIL",
+      "ELATE"
+    ],
+    "initial": "PLLCEIVULLAMAALTIOTLE"
+  },
+  {
+    "id": 269,
+    "horizontals": [
+      "PLACE",
+      "POKER",
+      "ROWDY"
+    ],
+    "verticals": [
+      "PAPER",
+      "ASKEW",
+      "EARLY"
+    ],
+    "initial": "PDOWLSEPCOKERAAEREALY"
+  },
+  {
+    "id": 270,
+    "horizontals": [
+      "PLACE",
+      "BRACE",
+      "CREPT"
+    ],
+    "verticals": [
+      "PUBIC",
+      "ABASE",
+      "EJECT"
+    ],
+    "initial": "CREBPTSJBUAACIPCCREEL"
+  },
+  {
+    "id": 271,
+    "horizontals": [
+      "PLACE",
+      "RABID",
+      "ROTOR"
+    ],
+    "verticals": [
+      "PARER",
+      "ABBOT",
+      "ELDER"
+    ],
+    "initial": "ELARTCBLABOIDPOEROEAR"
+  },
+  {
+    "id": 272,
+    "horizontals": [
+      "PLACE",
+      "GRAPE",
+      "NINNY"
+    ],
+    "verticals": [
+      "PAGAN",
+      "AGAIN",
+      "ELEGY"
+    ],
+    "initial": "AENAILNLGRPYEAIGAGNCP"
+  },
+  {
+    "id": 273,
+    "horizontals": [
+      "PLACE",
+      "OPTIC",
+      "FORTE"
+    ],
+    "verticals": [
+      "PROOF",
+      "ACTOR",
+      "EMCEE"
+    ],
+    "initial": "RLTCEROATPEPCOMIFOCOE"
+  },
+  {
+    "id": 274,
+    "horizontals": [
+      "PLACE",
+      "SOLID",
+      "ROTOR"
+    ],
+    "verticals": [
+      "POSER",
+      "ALLOT",
+      "ELDER"
+    ],
+    "initial": "PLOOEAOLLSLCOEIERDTOR"
+  },
+  {
+    "id": 275,
+    "horizontals": [
+      "PLACE",
+      "SPELL",
+      "TRAIT"
+    ],
+    "verticals": [
+      "POSIT",
+      "ARENA",
+      "ECLAT"
+    ],
+    "initial": "PTACIORENPCLLSRAELAIT"
+  },
+  {
+    "id": 276,
+    "horizontals": [
+      "PLACE",
+      "SPADE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABASE",
+      "EJECT"
+    ],
+    "initial": "TAASEEBSDDAPETCCLAPJP"
+  },
+  {
+    "id": 277,
+    "horizontals": [
+      "PLACE",
+      "OBESE",
+      "FOAMY"
+    ],
+    "verticals": [
+      "PROOF",
+      "ARENA",
+      "ELEGY"
+    ],
+    "initial": "CRBPEARSOLELOENGFYAMO"
+  },
+  {
+    "id": 278,
+    "horizontals": [
+      "PLACE",
+      "BRIEF",
+      "CUMIN"
+    ],
+    "verticals": [
+      "PUBIC",
+      "AXIOM",
+      "ELFIN"
+    ],
+    "initial": "PCURENXLBCLEFIIIOUMIA"
+  },
+  {
+    "id": 279,
+    "horizontals": [
+      "PLACE",
+      "LEPER",
+      "ADEPT"
+    ],
+    "verticals": [
+      "POLKA",
+      "AMPLE",
+      "EGRET"
+    ],
+    "initial": "PMLCLOATLRGEDKEPAEEPE"
+  },
+  {
+    "id": 280,
+    "horizontals": [
+      "PLACE",
+      "SLIDE",
+      "ADEPT"
+    ],
+    "verticals": [
+      "PASTA",
+      "ABIDE",
+      "EJECT"
+    ],
+    "initial": "PLECEAJEALIPSBDCDATDT"
+  },
+  {
+    "id": 281,
+    "horizontals": [
+      "PLACE",
+      "VALET",
+      "TAWNY"
+    ],
+    "verticals": [
+      "PIVOT",
+      "AGLOW",
+      "ENTRY"
+    ],
+    "initial": "ALAPEIYNGVAETLCRTOWNO"
+  },
+  {
+    "id": 282,
+    "horizontals": [
+      "PLACE",
+      "OMBRE",
+      "FORAY"
+    ],
+    "verticals": [
+      "PROOF",
+      "AMBER",
+      "ELEGY"
+    ],
+    "initial": "BLGPRRLMMOECFOEEOARAY"
+  },
+  {
+    "id": 283,
+    "horizontals": [
+      "CRACK",
+      "POPPY",
+      "TRACK"
+    ],
+    "verticals": [
+      "CAPUT",
+      "ALPHA",
+      "KAYAK"
+    ],
+    "initial": "CCKCKALRYOPPAUPATRHAA"
+  },
+  {
+    "id": 284,
+    "horizontals": [
+      "CRACK",
+      "UNSET",
+      "DANDY"
+    ],
+    "verticals": [
+      "CLUED",
+      "ARSON",
+      "KITTY"
+    ],
+    "initial": "CEAKOLDERNSYTINTUACDR"
+  },
+  {
+    "id": 285,
+    "horizontals": [
+      "CRACK",
+      "OVATE",
+      "PLEAD"
+    ],
+    "verticals": [
+      "CROUP",
+      "ABASE",
+      "KNEAD"
+    ],
+    "initial": "CRAACRBDAVALEUNTPKEOS"
+  },
+  {
+    "id": 286,
+    "horizontals": [
+      "CRACK",
+      "DIODE",
+      "RIGID"
+    ],
+    "verticals": [
+      "CEDAR",
+      "ALONG",
+      "KNEAD"
+    ],
+    "initial": "CECADGLNNIOAKERARIIDD"
+  },
+  {
+    "id": 287,
+    "horizontals": [
+      "CRACK",
+      "TWICE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CUTIE",
+      "ABIDE",
+      "KNELT"
+    ],
+    "initial": "IRACKUINBWTCLETERCEDX"
+  },
+  {
+    "id": 288,
+    "horizontals": [
+      "CRACK",
+      "ANIME",
+      "SKILL"
+    ],
+    "verticals": [
+      "CHAOS",
+      "ALIBI",
+      "KNEEL"
+    ],
+    "initial": "NRAMKLHANECECOBILKILS"
+  },
+  {
+    "id": 289,
+    "horizontals": [
+      "CRACK",
+      "UPSET",
+      "DANDY"
+    ],
+    "verticals": [
+      "CLUED",
+      "ARSON",
+      "KITTY"
+    ],
+    "initial": "CTCEUDRNKPSLTERODAAYI"
+  },
+  {
+    "id": 290,
+    "horizontals": [
+      "CRACK",
+      "PIECE",
+      "EXALT"
+    ],
+    "verticals": [
+      "COPSE",
+      "ARENA",
+      "KNELT"
+    ],
+    "initial": "NRLPKOLEACCCEERSIXANT"
+  },
+  {
+    "id": 291,
+    "horizontals": [
+      "CRACK",
+      "VERSO",
+      "CANON"
+    ],
+    "verticals": [
+      "CIVIC",
+      "APRON",
+      "KNOWN"
+    ],
+    "initial": "CRSPONCNVCOAEIKWRONAI"
+  },
+  {
+    "id": 292,
+    "horizontals": [
+      "CRACK",
+      "AUGUR",
+      "DELTA"
+    ],
+    "verticals": [
+      "CHARD",
+      "ANGEL",
+      "KARMA"
+    ],
+    "initial": "ECARUUNAAMECRHGTDKRLA"
+  },
+  {
+    "id": 293,
+    "horizontals": [
+      "CRACK",
+      "DRIFT",
+      "RELAY"
+    ],
+    "verticals": [
+      "CEDAR",
+      "AXIAL",
+      "KITTY"
+    ],
+    "initial": "LAFEAKXIDRITTEACRRCAY"
+  },
+  {
+    "id": 294,
+    "horizontals": [
+      "CRACK",
+      "MAGMA",
+      "TILDE"
+    ],
+    "verticals": [
+      "COMET",
+      "ANGEL",
+      "KNAVE"
+    ],
+    "initial": "CADCNKTMERAMGAEVNILOE"
+  },
+  {
+    "id": 295,
+    "horizontals": [
+      "CRACK",
+      "CRATE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CACHE",
+      "ABASE",
+      "KNELT"
+    ],
+    "initial": "RRHRABAECEATECSTKNCXL"
+  },
+  {
+    "id": 296,
+    "horizontals": [
+      "CRACK",
+      "TERSE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CUTIE",
+      "AGREE",
+      "KNELT"
+    ],
+    "initial": "XRCCKETTIERSAUELNGERE"
+  },
+  {
+    "id": 297,
+    "horizontals": [
+      "CRACK",
+      "BUTTE",
+      "LURID"
+    ],
+    "verticals": [
+      "CABAL",
+      "ACTOR",
+      "KNEAD"
+    ],
+    "initial": "CAACKTDNBUTAEAORURLIC"
+  },
+  {
+    "id": 298,
+    "horizontals": [
+      "CRACK",
+      "BRAVO",
+      "CANON"
+    ],
+    "verticals": [
+      "CUBIC",
+      "AGAIN",
+      "KNOWN"
+    ],
+    "initial": "CAAIUKGWBCNIOCRORANVN"
+  },
+  {
+    "id": 299,
+    "horizontals": [
+      "CRACK",
+      "BULGE",
+      "CADET"
+    ],
+    "verticals": [
+      "CUBIC",
+      "ABLED",
+      "KNELT"
+    ],
+    "initial": "CDLCUGBCBUAIELEKRANTE"
+  },
+  {
+    "id": 300,
+    "horizontals": [
+      "CRACK",
+      "ADAGE",
+      "PLEAD"
+    ],
+    "verticals": [
+      "CHAMP",
+      "ABASE",
+      "KNEAD"
+    ],
+    "initial": "HGCAKLANABAREMSDPCEAD"
+  },
+  {
+    "id": 301,
+    "horizontals": [
+      "CRACK",
+      "APART",
+      "DANDY"
+    ],
+    "verticals": [
+      "CHARD",
+      "AGAIN",
+      "KITTY"
+    ],
+    "initial": "ARDCIHCIYDATKRPTRANAG"
+  },
+  {
+    "id": 302,
+    "horizontals": [
+      "CRACK",
+      "BLARE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CABLE",
+      "ABASE",
+      "KNELT"
+    ],
+    "initial": "RRNCKAAXTEARCLSLEBLBE"
+  },
+  {
+    "id": 303,
+    "horizontals": [
+      "CRACK",
+      "PESTO",
+      "EXTOL"
+    ],
+    "verticals": [
+      "COPSE",
+      "ASSET",
+      "KNOLL"
+    ],
+    "initial": "CRATKOOPEEOSSNSLCXLET"
+  },
+  {
+    "id": 304,
+    "horizontals": [
+      "CRACK",
+      "OLIVE",
+      "SKILL"
+    ],
+    "verticals": [
+      "CROSS",
+      "ALIBI",
+      "KNEEL"
+    ],
+    "initial": "CEKNVRLKRLLIESALCBISO"
+  },
+  {
+    "id": 305,
+    "horizontals": [
+      "CRACK",
+      "DRIVE",
+      "RIGID"
+    ],
+    "verticals": [
+      "CEDAR",
+      "AGING",
+      "KNEAD"
+    ],
+    "initial": "CKANNEADIRIVEARIGCGRD"
+  },
+  {
+    "id": 306,
+    "horizontals": [
+      "CRACK",
+      "ELIDE",
+      "SKILL"
+    ],
+    "verticals": [
+      "CHESS",
+      "ALIBI",
+      "KNEEL"
+    ],
+    "initial": "SKACRHSENLLDLIBELKCIE"
+  },
+  {
+    "id": 307,
+    "horizontals": [
+      "CRACK",
+      "AMPLY",
+      "FLECK"
+    ],
+    "verticals": [
+      "CHAFF",
+      "AMPLE",
+      "KAYAK"
+    ],
+    "initial": "LACFRHLAAMPMECKAFLYCK"
+  },
+  {
+    "id": 308,
+    "horizontals": [
+      "CRACK",
+      "UNION",
+      "DANDY"
+    ],
+    "verticals": [
+      "CLUED",
+      "ALIEN",
+      "KINKY"
+    ],
+    "initial": "CRACLLKINEIONKEDUADYN"
+  },
+  {
+    "id": 309,
+    "horizontals": [
+      "CRACK",
+      "OUGHT",
+      "RELAY"
+    ],
+    "verticals": [
+      "CHOIR",
+      "ANGEL",
+      "KITTY"
+    ],
+    "initial": "LRAEGCNIOYEHUIKTHRATC"
+  },
+  {
+    "id": 310,
+    "horizontals": [
+      "CRACK",
+      "PINTO",
+      "TRACK"
+    ],
+    "verticals": [
+      "CAPUT",
+      "APNEA",
+      "KIOSK"
+    ],
+    "initial": "PUAIKASITPNROECCTRACK"
+  },
+  {
+    "id": 311,
+    "horizontals": [
+      "CRACK",
+      "BRAVE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CABLE",
+      "ABASE",
+      "KNELT"
+    ],
+    "initial": "ERACNABVBRAETSLLCXRKE"
+  },
+  {
+    "id": 312,
+    "horizontals": [
+      "CRACK",
+      "ANODE",
+      "LEAPT"
+    ],
+    "verticals": [
+      "CRAWL",
+      "AGORA",
+      "KNELT"
+    ],
+    "initial": "CRRCKNNEAARWOLGPLEADT"
+  },
+  {
+    "id": 313,
+    "horizontals": [
+      "CRACK",
+      "SEIZE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CASTE",
+      "ABIDE",
+      "KNELT"
+    ],
+    "initial": "KACBTACNSEZIEDXRETERL"
+  },
+  {
+    "id": 314,
+    "horizontals": [
+      "CRACK",
+      "INNER",
+      "DELTA"
+    ],
+    "verticals": [
+      "CHILD",
+      "ANNUL",
+      "KARMA"
+    ],
+    "initial": "CERLAHIACNNENLDRAUKTM"
+  },
+  {
+    "id": 315,
+    "horizontals": [
+      "CRACK",
+      "OPERA",
+      "STATE"
+    ],
+    "verticals": [
+      "CROSS",
+      "ARENA",
+      "KNAVE"
+    ],
+    "initial": "APNCKAONSEERARRVSTTCR"
+  },
+  {
+    "id": 316,
+    "horizontals": [
+      "CRACK",
+      "TRAIT",
+      "RELAY"
+    ],
+    "verticals": [
+      "CATER",
+      "AVAIL",
+      "KITTY"
+    ],
+    "initial": "CAAATEARTRIIIKRTYELVC"
+  },
+  {
+    "id": 317,
+    "horizontals": [
+      "CRACK",
+      "SOLVE",
+      "EXTOL"
+    ],
+    "verticals": [
+      "CASTE",
+      "ALLOT",
+      "KNEEL"
+    ],
+    "initial": "CRACKALENOLTTEOSELOXV"
+  },
+  {
+    "id": 318,
+    "horizontals": [
+      "CRACK",
+      "MANIA",
+      "OVATE"
+    ],
+    "verticals": [
+      "CAMEO",
+      "APNEA",
+      "KNAVE"
+    ],
+    "initial": "TAIKVAECCANEAMPNEVRAO"
+  },
+  {
+    "id": 319,
+    "horizontals": [
+      "CRACK",
+      "BEGIN",
+      "RELAY"
+    ],
+    "verticals": [
+      "CYBER",
+      "ANGEL",
+      "KINKY"
+    ],
+    "initial": "CRAELGKIBYAIYEEKRENCN"
+  },
+  {
+    "id": 320,
+    "horizontals": [
+      "CRACK",
+      "ERODE",
+      "PLEAD"
+    ],
+    "verticals": [
+      "CHEAP",
+      "ABODE",
+      "KNEAD"
+    ],
+    "initial": "AADLAHBNERDDCKROPCEEA"
+  },
+  {
+    "id": 321,
+    "horizontals": [
+      "CRACK",
+      "CYCLE",
+      "EXTOL"
+    ],
+    "verticals": [
+      "CACHE",
+      "ASCOT",
+      "KNEEL"
+    ],
+    "initial": "ECNYKASCCACLEROELXTOH"
+  },
+  {
+    "id": 322,
+    "horizontals": [
+      "CRACK",
+      "ALOFT",
+      "DANDY"
+    ],
+    "verticals": [
+      "CHARD",
+      "ACORN",
+      "KITTY"
+    ],
+    "initial": "CLROKTCIARCDAFRNAHYDT"
+  },
+  {
+    "id": 323,
+    "horizontals": [
+      "CRACK",
+      "SHINE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CASTE",
+      "ABIDE",
+      "KNELT"
+    ],
+    "initial": "ITANKAXNSETCLEDBRHCRE"
+  },
+  {
+    "id": 324,
+    "horizontals": [
+      "CRACK",
+      "SPARE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CASTE",
+      "ABASE",
+      "KNELT"
+    ],
+    "initial": "CPTABERNSSAXECLREAKRT"
+  },
+  {
+    "id": 325,
+    "horizontals": [
+      "CRACK",
+      "OUTGO",
+      "PECAN"
+    ],
+    "verticals": [
+      "CROUP",
+      "ANTIC",
+      "KNOWN"
+    ],
+    "initial": "WKCNGRENOUNTOUPRCCIAA"
+  },
+  {
+    "id": 326,
+    "horizontals": [
+      "CRACK",
+      "PARKA",
+      "TEASE"
+    ],
+    "verticals": [
+      "CAPUT",
+      "AORTA",
+      "KNAVE"
+    ],
+    "initial": "ACRRKATNKAPVAUTOCEASE"
+  },
+  {
+    "id": 327,
+    "horizontals": [
+      "CRACK",
+      "DRIER",
+      "THETA"
+    ],
+    "verticals": [
+      "CADET",
+      "ABIDE",
+      "KARMA"
+    ],
+    "initial": "MAEHKABCDRIRAEDATCTRE"
+  },
+  {
+    "id": 328,
+    "horizontals": [
+      "CRACK",
+      "CURVE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CACHE",
+      "AGREE",
+      "KNELT"
+    ],
+    "initial": "CEAVKHUACRRNTXRGELEEC"
+  },
+  {
+    "id": 329,
+    "horizontals": [
+      "CRACK",
+      "ANNOY",
+      "SPARK"
+    ],
+    "verticals": [
+      "CHAOS",
+      "APNEA",
+      "KAYAK"
+    ],
+    "initial": "CRACOAPAAEANPKHSOYNRK"
+  },
+  {
+    "id": 330,
+    "horizontals": [
+      "CRACK",
+      "SUSHI",
+      "EXTOL"
+    ],
+    "verticals": [
+      "CASTE",
+      "ASSET",
+      "KRILL"
+    ],
+    "initial": "CEARKXSARISUHTETSCLOL"
+  },
+  {
+    "id": 331,
+    "horizontals": [
+      "CRACK",
+      "OVERT",
+      "PADDY"
+    ],
+    "verticals": [
+      "CROUP",
+      "AHEAD",
+      "KITTY"
+    ],
+    "initial": "TIVDKOCUARERCRATPHDAY"
+  },
+  {
+    "id": 332,
+    "horizontals": [
+      "CRACK",
+      "REEDY",
+      "TRACK"
+    ],
+    "verticals": [
+      "CARAT",
+      "ARENA",
+      "KAYAK"
+    ],
+    "initial": "KCAAKDACREAEYANCTRARR"
+  },
+  {
+    "id": 333,
+    "horizontals": [
+      "CRACK",
+      "BORNE",
+      "LEAPT"
+    ],
+    "verticals": [
+      "CABAL",
+      "AORTA",
+      "KNELT"
+    ],
+    "initial": "TRALCBONANREAPTLOACKE"
+  },
+  {
+    "id": 334,
+    "horizontals": [
+      "CRACK",
+      "LASSO",
+      "OCEAN"
+    ],
+    "verticals": [
+      "CELLO",
+      "AISLE",
+      "KNOWN"
+    ],
+    "initial": "ERCEKLSNCWOSNILAOCLAA"
+  },
+  {
+    "id": 335,
+    "horizontals": [
+      "CRACK",
+      "OZONE",
+      "PLEAD"
+    ],
+    "verticals": [
+      "CROUP",
+      "ABODE",
+      "KNEAD"
+    ],
+    "initial": "CRDANOZCNBAUEORAPLEKD"
+  },
+  {
+    "id": 336,
+    "horizontals": [
+      "CRACK",
+      "GLINT",
+      "RELAY"
+    ],
+    "verticals": [
+      "CIGAR",
+      "AXIAL",
+      "KITTY"
+    ],
+    "initial": "IAACLXKRGCRNYIATTALEI"
+  },
+  {
+    "id": 337,
+    "horizontals": [
+      "CRACK",
+      "SMITE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CASTE",
+      "ABIDE",
+      "KNELT"
+    ],
+    "initial": "ERALATINTCBTSCDKXMERE"
+  },
+  {
+    "id": 338,
+    "horizontals": [
+      "CRACK",
+      "OUNCE",
+      "PIXEL"
+    ],
+    "verticals": [
+      "CROUP",
+      "ANNEX",
+      "KNEEL"
+    ],
+    "initial": "PRNOCEKNACNEEUCEUIXRL"
+  },
+  {
+    "id": 339,
+    "horizontals": [
+      "CRACK",
+      "OFFER",
+      "DELTA"
+    ],
+    "verticals": [
+      "CHORD",
+      "AWFUL",
+      "KARMA"
+    ],
+    "initial": "WRFCAHDAFOCEKRUMRLETA"
+  },
+  {
+    "id": 340,
+    "horizontals": [
+      "CRACK",
+      "REUSE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CARVE",
+      "ABUSE",
+      "KNELT"
+    ],
+    "initial": "CAXBKRENREUSERELSVCTA"
+  },
+  {
+    "id": 341,
+    "horizontals": [
+      "CRACK",
+      "LOOSE",
+      "RIGID"
+    ],
+    "verticals": [
+      "COLOR",
+      "ALONG",
+      "KNEAD"
+    ],
+    "initial": "ORACROLNLOADIKNCISEGO"
+  },
+  {
+    "id": 342,
+    "horizontals": [
+      "CRACK",
+      "BERET",
+      "RANDY"
+    ],
+    "verticals": [
+      "CYBER",
+      "APRON",
+      "KITTY"
+    ],
+    "initial": "ERACYRIPTBOEEAKTRCNDY"
+  },
+  {
+    "id": 343,
+    "horizontals": [
+      "CRACK",
+      "STAVE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CASTE",
+      "ABASE",
+      "KNELT"
+    ],
+    "initial": "CRTCASENATBVRESETXKLA"
+  },
+  {
+    "id": 344,
+    "horizontals": [
+      "CRACK",
+      "REPLY",
+      "TRACK"
+    ],
+    "verticals": [
+      "CARAT",
+      "ALPHA",
+      "KAYAK"
+    ],
+    "initial": "CRHCAKLACEPLYARATAARK"
+  },
+  {
+    "id": 345,
+    "horizontals": [
+      "CRACK",
+      "BESET",
+      "RANDY"
+    ],
+    "verticals": [
+      "CYBER",
+      "ARSON",
+      "KITTY"
+    ],
+    "initial": "AETCRDRIBERYCNTSKAEOY"
+  },
+  {
+    "id": 346,
+    "horizontals": [
+      "CRACK",
+      "PROVE",
+      "EXERT"
+    ],
+    "verticals": [
+      "COPSE",
+      "ABODE",
+      "KNELT"
+    ],
+    "initial": "CRRNKTLCSOOPVEDBEXRAE"
+  },
+  {
+    "id": 347,
+    "horizontals": [
+      "CRACK",
+      "BADLY",
+      "CROOK"
+    ],
+    "verticals": [
+      "CUBIC",
+      "AUDIO",
+      "KAYAK"
+    ],
+    "initial": "CIBCKUKIDOLAYACARRAOU"
+  },
+  {
+    "id": 348,
+    "horizontals": [
+      "CRACK",
+      "BOAST",
+      "RELAY"
+    ],
+    "verticals": [
+      "CYBER",
+      "AVAIL",
+      "KITTY"
+    ],
+    "initial": "SRKCEYVEYOCATAITLRBAI"
+  },
+  {
+    "id": 349,
+    "horizontals": [
+      "CRACK",
+      "METER",
+      "COCOA"
+    ],
+    "verticals": [
+      "COMIC",
+      "ANTIC",
+      "KARMA"
+    ],
+    "initial": "ORKCAOEAMOTNRIIMCCCEA"
+  },
+  {
+    "id": 350,
+    "horizontals": [
+      "CRACK",
+      "OVINE",
+      "SKILL"
+    ],
+    "verticals": [
+      "CROSS",
+      "ALIBI",
+      "KNEEL"
+    ],
+    "initial": "KRBCVRSNOLKNEASECLIIL"
+  },
+  {
+    "id": 351,
+    "horizontals": [
+      "CRACK",
+      "MELEE",
+      "CADET"
+    ],
+    "verticals": [
+      "COMIC",
+      "ABLED",
+      "KNELT"
+    ],
+    "initial": "EOACKMBRNCLCEEELIADET"
+  },
+  {
+    "id": 352,
+    "horizontals": [
+      "CRACK",
+      "TEASE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CUTIE",
+      "ABASE",
+      "KNELT"
+    ],
+    "initial": "SSIXKACLNEAREUBTECERT"
+  },
+  {
+    "id": 353,
+    "horizontals": [
+      "CRACK",
+      "ALONE",
+      "LEAPT"
+    ],
+    "verticals": [
+      "CRAWL",
+      "AGORA",
+      "KNELT"
+    ],
+    "initial": "PERCKERWRLOANNALLTGCA"
+  },
+  {
+    "id": 354,
+    "horizontals": [
+      "CRACK",
+      "PRIME",
+      "EXERT"
+    ],
+    "verticals": [
+      "COPSE",
+      "ABIDE",
+      "KNELT"
+    ],
+    "initial": "CRKMORNPBDSIRCALEXEET"
+  },
+  {
+    "id": 355,
+    "horizontals": [
+      "CRACK",
+      "BILGE",
+      "CADET"
+    ],
+    "verticals": [
+      "CUBIC",
+      "ABLED",
+      "KNELT"
+    ],
+    "initial": "CKAEBNGIBILTEUELRADCC"
+  },
+  {
+    "id": 356,
+    "horizontals": [
+      "CRACK",
+      "EVOKE",
+      "PLEAD"
+    ],
+    "verticals": [
+      "CHEAP",
+      "ABODE",
+      "KNEAD"
+    ],
+    "initial": "AEACDCRPVEOKKLDANBEHA"
+  },
+  {
+    "id": 357,
+    "horizontals": [
+      "CRACK",
+      "CRANE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CACHE",
+      "ABASE",
+      "KNELT"
+    ],
+    "initial": "KRASLABNNRECAETHCREXC"
+  },
+  {
+    "id": 358,
+    "horizontals": [
+      "CRACK",
+      "RATIO",
+      "LOCAL"
+    ],
+    "verticals": [
+      "CAROL",
+      "ANTIC",
+      "KNOLL"
+    ],
+    "initial": "LRACCNAALLIIOOTNCORAK"
+  },
+  {
+    "id": 359,
+    "horizontals": [
+      "CRACK",
+      "RAISE",
+      "EXERT"
+    ],
+    "verticals": [
+      "CARVE",
+      "ABIDE",
+      "KNELT"
+    ],
+    "initial": "TRSEKEBNACAAEVDRLCIRX"
+  },
+  {
+    "id": 360,
+    "horizontals": [
+      "CRACK",
+      "AUNTY",
+      "SPARK"
+    ],
+    "verticals": [
+      "CHAOS",
+      "APNEA",
+      "KAYAK"
+    ],
+    "initial": "ATAKKEPAAHNRYOACPSCRU"
+  },
+  {
+    "id": 361,
+    "horizontals": [
+      "CRACK",
+      "IMAGE",
+      "BETEL"
+    ],
+    "verticals": [
+      "CLIMB",
+      "ADAPT",
+      "KNEEL"
+    ],
+    "initial": "RMACBLDNIMLGEEPEKEACT"
+  },
+  {
+    "id": 362,
+    "horizontals": [
+      "CRACK",
+      "RESIN",
+      "RANDY"
+    ],
+    "verticals": [
+      "CORER",
+      "ARSON",
+      "KINKY"
+    ],
+    "initial": "KOICKORYDNSRENRCRAAEI"
+  },
+  {
+    "id": 363,
+    "horizontals": [
+      "CRACK",
+      "USURP",
+      "THETA"
+    ],
+    "verticals": [
+      "COUNT",
+      "ABUSE",
+      "KAPPA"
+    ],
+    "initial": "PSAKCOBAHCRUSUNTPERTA"
+  },
+  {
+    "id": 364,
+    "horizontals": [
+      "CRACK",
+      "INLET",
+      "PADDY"
+    ],
+    "verticals": [
+      "CHIRP",
+      "ABLED",
+      "KITTY"
+    ],
+    "initial": "CYANAHBIRTLDEREPTCIDK"
+  },
+  {
+    "id": 365,
+    "horizontals": [
+      "CRACK",
+      "IMBUE",
+      "BETEL"
+    ],
+    "verticals": [
+      "CLIMB",
+      "ABBOT",
+      "KNEEL"
+    ],
+    "initial": "ERBIKCLNEMBUEMOBAETCL"
+  }
+]

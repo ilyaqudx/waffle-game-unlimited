@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="waffleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="pocketGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="100%" stop-color="#92400e"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <!-- Outer Waffle Body -->
+  <rect x="6" y="6" width="88" height="88" rx="20" fill="url(#waffleGrad)" filter="url(#shadow)"/>
+  <rect x="10" y="10" width="80" height="80" rx="16" fill="none" stroke="#fef3c7" stroke-width="2" opacity="0.6"/>
+  <!-- Waffle Pockets -->
+  <rect x="18" y="18" width="16" height="16" rx="4" fill="url(#pocketGrad)"/>
+  <rect x="42" y="18" width="16" height="16" rx="4" fill="url(#pocketGrad)"/>
+  <rect x="66" y="18" width="16" height="16" rx="4" fill="url(#pocketGrad)"/>
+
+  <rect x="18" y="42" width="16" height="16" rx="4" fill="url(#pocketGrad)"/>
+  <rect x="42" y="42" width="16" height="16" rx="4" fill="url(#pocketGrad)"/>
+  <rect x="66" y="42" width="16" height="16" rx="4" fill="url(#pocketGrad)"/>
+
+  <rect x="18" y="66" width="16" height="16" rx="4" fill="url(#pocketGrad)"/>
+  <rect x="42" y="66" width="16" height="16" rx="4" fill="url(#pocketGrad)"/>
+  <rect x="66" y="66" width="16" height="16" rx="4" fill="url(#pocketGrad)"/>
+
+  <!-- Butter Slab on top -->
+  <rect x="36" y="34" width="28" height="24" rx="4" fill="#fef08a" transform="rotate(-8 50 46)" stroke="#fde047" stroke-width="1.5" filter="url(#shadow)"/>
+</svg>

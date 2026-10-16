@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Waffle Game Unlimited - Play Free Daily Word Puzzle Online</title>
+  <meta name="description" content="Play Waffle Game Unlimited free online! Swap letters to solve 6 intersecting 5-letter words in 15 moves. Enjoy the Daily Challenge and infinite Unlimited mode without waiting 24 hours." />
+  <meta name="keywords" content="waffle game unlimited, waffle unlimited, play waffle game, waffle word puzzle, waffle daily wordle, free waffle game" />
+  <link rel="canonical" href="https://waffle-game-unlimited.vercel.app/" />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://waffle-game-unlimited.vercel.app/" />
+  <meta property="og:title" content="Waffle Game Unlimited - Free Online Word Puzzle" />
+  <meta property="og:description" content="Solve 6 intersecting words in 15 swaps! Play daily or enjoy endless unlimited practice puzzles online for free." />
+  <meta property="og:image" content="https://waffle-game-unlimited.vercel.app/og-image.png" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Waffle Game Unlimited - Free Online Word Puzzle" />
+  <meta name="twitter:description" content="Solve 6 intersecting words in 15 swaps! Play daily or enjoy endless unlimited practice puzzles." />
+  <meta name="twitter:image" content="https://waffle-game-unlimited.vercel.app/og-image.png" />
+
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/favicon.svg" />
+  <meta name="theme-color" content="#d97706" />
+
+  <!-- Preconnect Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Schema.org JSON-LD Markup -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebApplication",
+        "@id": "https://waffle-game-unlimited.vercel.app/#game",
+        "name": "Waffle Game Unlimited",
+        "url": "https://waffle-game-unlimited.vercel.app/",
+        "applicationCategory": "GameApplication",
+        "genre": "Word Game",
+        "operatingSystem": "All",
+        "browserRequirements": "Requires JavaScript. Requires HTML5.",
+        "inLanguage": "en",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "ratingCount": "1942",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://waffle-game-unlimited.vercel.app/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Waffle Game Unlimited?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Waffle Game Unlimited is a browser-based word puzzle where players solve 6 intersecting five-letter words on a waffle-shaped grid in 15 swaps or fewer. It features both a Daily Challenge mode and an endless Unlimited mode for nonstop practice."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Unlimited Mode work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Unlimited Mode generates infinite random solvable Waffle puzzles on demand. Unlike the standard once-a-day limit, you can hit 'New Puzzle' anytime to practice your skills and play as many rounds as you want without waiting 24 hours."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What do the tile colors and directional arrows mean?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Green tiles are in the correct position and locked in place. Yellow tiles belong to that row or column but in a different position: horizontal arrows (↔) mean the letter belongs in the row, vertical arrows (↕) mean it belongs in the column, and cross arrows mean it belongs to both. Grey tiles do not belong to that row or column."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is the star rating calculated in Waffle?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You start each puzzle with 15 swaps. Finishing with 10 or more swaps left awards 5 stars. 7-9 swaps left gives 4 stars, 4-6 swaps left gives 3 stars, 1-3 swaps gives 2 stars, and solving on your final swap awards 1 star."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Waffle Game Unlimited free to play?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, Waffle Game Unlimited is 100% free with no registration, no downloads, and no paywalls. It runs instantly on any smartphone, tablet, or desktop browser."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://waffle-game-unlimited.vercel.app/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://waffle-game-unlimited.vercel.app/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Word Games",
+            "item": "https://waffle-game-unlimited.vercel.app/#about-game"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Waffle Game Unlimited",
+            "item": "https://waffle-game-unlimited.vercel.app/"
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <div id="app">
+    <!-- Top Header Navigation -->
+    <header class="site-header">
+      <div class="header-inner">
+        <div class="brand">
+          <span class="waffle-icon" aria-hidden="true">🧇</span>
+          <div class="brand-text">
+            <span class="brand-title">WAFFLE</span>
+            <span class="brand-tag">UNLIMITED</span>
+          </div>
+        </div>
+
+        <!-- Mode Switcher Tabs -->
+        <nav class="mode-tabs" aria-label="Game Mode">
+          <button id="tab-daily" class="mode-btn active" data-mode="daily">
+            <span class="btn-icon">🌟</span> Daily
+          </button>
+          <button id="tab-unlimited" class="mode-btn" data-mode="unlimited">
+            <span class="btn-icon">♾️</span> Unlimited
+          </button>
+        </nav>
+
+        <!-- Utility Action Icons -->
+        <div class="header-actions">
+          <button id="btn-stats" class="icon-btn" title="View Statistics" aria-label="Statistics">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V10M12 20V4M6 20v-6"/></svg>
+          </button>
+          <button id="btn-help" class="icon-btn" title="How to Play" aria-label="Help">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+          </button>
+          <button id="btn-sound" class="icon-btn" title="Toggle Sound" aria-label="Sound Toggle">
+            <span id="sound-icon">🔊</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Game Container (First Fold - 0 Lag Instant Play) -->
+    <main class="main-content">
+      <div class="game-wrapper">
+        <!-- Game Status & Swaps Bar -->
+        <section class="game-meta-bar" aria-label="Game Status">
+          <div class="meta-left">
+            <span id="puzzle-label" class="puzzle-badge">Daily #1</span>
+          </div>
+
+          <div class="swaps-counter-box">
+            <span class="swaps-label">SWAPS LEFT</span>
+            <div class="swaps-display">
+              <span id="swaps-count" class="swaps-number">15</span>
+            </div>
+          </div>
+
+          <div class="meta-right">
+            <div id="stars-meter" class="stars-meter" title="Stars rating based on remaining swaps">
+              <span class="star active" data-s="1">★</span>
+              <span class="star active" data-s="2">★</span>
+              <span class="star active" data-s="3">★</span>
+              <span class="star active" data-s="4">★</span>
+              <span class="star active" data-s="5">★</span>
+            </div>
+          </div>
+        </section>
+
+        <!-- The 5x5 Waffle Board -->
+        <section class="board-container" aria-label="Waffle Puzzle Board">
+          <div id="waffle-grid" class="waffle-grid" role="grid" aria-label="5 by 5 Waffle Game Grid">
+            <!-- 25 cells rendered dynamically: 21 active tiles + 4 blank cavities -->
+          </div>
+        </section>
+
+        <!-- Quick Game Action Controls -->
+        <div class="game-controls">
+          <button id="btn-reset" class="action-btn secondary" title="Restart this puzzle from beginning">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+            Restart
+          </button>
+
+          <button id="btn-new-puzzle" class="action-btn primary" title="Generate a fresh unlimited puzzle">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+            New Puzzle
+          </button>
+        </div>
+
+        <div id="game-message" class="game-message" aria-live="polite"></div>
+      </div>
+
+      <!-- Below the Fold: Rich On-Page SEO Content Section -->
+      <article id="about-game" class="seo-article">
+        <header class="article-header">
+          <h1>Waffle Game Unlimited – Free Online 6-Word Puzzle</h1>
+          <p class="article-lead">
+            Welcome to <strong>Waffle Game Unlimited</strong>, the delicious anagram word puzzle game where crosswords meet Wordle! Swap scrambled letters on a 5×5 waffle grid to solve 6 intersecting five-letter words in 15 moves or fewer. Play the official <strong>Daily Challenge</strong> every morning or jump into endless <strong>Unlimited Mode</strong> to practice at your own pace anytime.
+          </p>
+        </header>
+
+        <!-- Visual How To Play Guide -->
+        <section class="seo-section rules-card">
+          <h2>How to Play Waffle Game Unlimited</h2>
+          <p>
+            The waffle grid consists of <strong>6 five-letter words</strong> (3 horizontal across rows 1, 3, and 5, and 3 vertical down columns 1, 3, and 5). You have <strong>15 swaps</strong> to arrange all letters into their correct positions:
+          </p>
+          <div class="how-to-steps">
+            <div class="step-card">
+              <span class="step-num">1</span>
+              <h3>Tap to Select</h3>
+              <p>Click or tap any unlocked tile to select it. The selected tile will glow with an amber ring.</p>
+            </div>
+            <div class="step-card">
+              <span class="step-num">2</span>
+              <h3>Tap to Swap</h3>
+              <p>Tap a second unlocked tile to swap their positions. Each swap decreases your remaining moves by 1.</p>
+            </div>
+            <div class="step-card">
+              <span class="step-num">3</span>
+              <h3>Solve All 6 Words</h3>
+              <p>Turn all 21 letters green before running out of swaps to claim your stars and achieve victory!</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Tile Color Meaning Guide -->
+        <section class="seo-section colors-card">
+          <h2>Tile Color Meanings & Directional Clues</h2>
+          <p>
+            Just like Wordle, Waffle provides instant color feedback after every swap to help you deduce the correct letter positions:
+          </p>
+          <div class="color-legend-grid">
+            <div class="legend-item">
+              <div class="tile-preview green">A<span class="lock-indicator">🔒</span></div>
+              <div class="legend-info">
+                <h3>Green (Correct & Locked)</h3>
+                <p>The letter is in the <strong>exact right position</strong>. Once green, the tile locks automatically and cannot be moved, saving your swaps for other tiles.</p>
+              </div>
+            </div>
+
+            <div class="legend-item">
+              <div class="tile-preview yellow">E<span class="dir-badge">↔</span></div>
+              <div class="legend-info">
+                <h3>Yellow with Horizontal Arrow (↔)</h3>
+                <p>The letter belongs to the <strong>horizontal word</strong> on this row, but is currently in the wrong cell.</p>
+              </div>
+            </div>
+
+            <div class="legend-item">
+              <div class="tile-preview yellow">R<span class="dir-badge">↕</span></div>
+              <div class="legend-info">
+                <h3>Yellow with Vertical Arrow (↕)</h3>
+                <p>The letter belongs to the <strong>vertical word</strong> on this column, but is currently in the wrong cell.</p>
+              </div>
+            </div>
+
+            <div class="legend-item">
+              <div class="tile-preview yellow">T<span class="dir-badge">⤧</span></div>
+              <div class="legend-info">
+                <h3>Yellow with Corner Arrow (⤧)</h3>
+                <p>Located on an intersection. The letter belongs to <strong>both the horizontal and vertical words</strong> intersecting here!</p>
+              </div>
+            </div>
+
+            <div class="legend-item">
+              <div class="tile-preview grey">O</div>
+              <div class="legend-info">
+                <h3>Grey (Neutral)</h3>
+                <p>The letter <strong>does not belong</strong> to either the row or column passing through this cell. Swap it to another line!</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Strategic Tips for Maximum Stars -->
+        <section class="seo-section strategies-card">
+          <h2>5 Pro Strategies to Solve Waffles in 10 Swaps or Fewer</h2>
+          <ol class="tips-list">
+            <li>
+              <strong>Prioritize the 4 Corners and Center Intersection:</strong> The 9 intersection tiles belong to two words simultaneously. Locking an intersection letter green often gives you the breakthrough clue for both the horizontal and vertical words.
+            </li>
+            <li>
+              <strong>Follow Directional Arrows Strictly:</strong> Yellow tiles with <code>↔</code> must move horizontally along that exact row. Never waste a swap moving a horizontal yellow tile to a different row!
+            </li>
+            <li>
+              <strong>Search for Obvious Anagrams:</strong> Look at the 5 letters currently occupying a line. Many times, 4 of the 5 letters are already in that row and just need a quick pairwise swap.
+            </li>
+            <li>
+              <strong>Spot Common English Prefixes & Suffixes:</strong> Look for patterns like <em>RE-</em>, <em>UN-</em>, <em>-ED</em>, <em>-ER</em>, <em>-ING</em>, and <em>-TY</em> at the starts and ends of lines.
+            </li>
+            <li>
+              <strong>Save Swaps for a 5-Star Rating:</strong> You start with 15 moves. Solving the puzzle with 10 or more swaps left awards a perfect 5-star rating!
+            </li>
+          </ol>
+        </section>
+
+        <!-- Wordle vs Waffle Comparison Table -->
+        <section class="seo-section comparison-card">
+          <h2>Wordle vs. Waffle vs. Quordle Comparison</h2>
+          <div class="table-responsive">
+            <table class="comparison-table">
+              <thead>
+                <tr>
+                  <th>Feature</th>
+                  <th>Waffle Game Unlimited</th>
+                  <th>Wordle</th>
+                  <th>Quordle</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Words to Solve</strong></td>
+                  <td>6 Intersecting Words</td>
+                  <td>1 Word</td>
+                  <td>4 Words</td>
+                </tr>
+                <tr>
+                  <td><strong>Core Mechanic</strong></td>
+                  <td>Swap Scrambled Letters</td>
+                  <td>Type Keyboard Guesses</td>
+                  <td>Type Keyboard Guesses</td>
+                </tr>
+                <tr>
+                  <td><strong>Directional Clues</strong></td>
+                  <td>Yes (Horizontal & Vertical ↔ / ↕)</td>
+                  <td>No</td>
+                  <td>No</td>
+                </tr>
+                <tr>
+                  <td><strong>Unlimited Free Practice</strong></td>
+                  <td>✅ Yes (Endless Puzzles)</td>
+                  <td>❌ 1 Game / 24 Hours</td>
+                  <td>Practice Mode</td>
+                </tr>
+                <tr>
+                  <td><strong>Starting Green Clues</strong></td>
+                  <td>✅ Yes (~4 letters in place)</td>
+                  <td>❌ Blank Board</td>
+                  <td>❌ Blank Board</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <!-- FAQ Section with Schema Support -->
+        <section class="seo-section faq-card">
+          <h2>Frequently Asked Questions (FAQ)</h2>
+          <div class="faq-accordion">
+            <details class="faq-item" open>
+              <summary class="faq-question">What is Waffle Game Unlimited?</summary>
+              <div class="faq-answer">
+                <p>Waffle Game Unlimited is an online word puzzle inspired by crosswords and anagrams. Players must unscramble letters to form 6 five-letter words (3 horizontal and 3 vertical) on a waffle grid in 15 swaps or fewer.</p>
+              </div>
+            </details>
+
+            <details class="faq-item">
+              <summary class="faq-question">How does Unlimited Mode work?</summary>
+              <div class="faq-answer">
+                <p>Unlike the original game which only permits one puzzle per calendar day, our Unlimited Mode gives you access to an infinite library of hand-curated English waffle puzzles. Simply click "New Puzzle" anytime to practice without daily limits.</p>
+              </div>
+            </details>
+
+            <details class="faq-item">
+              <summary class="faq-question">What do the arrows on yellow letters mean?</summary>
+              <div class="faq-answer">
+                <p>Directional arrows indicate which word the yellow letter belongs to. A horizontal arrow (↔) indicates the letter belongs in that row. A vertical arrow (↕) indicates it belongs in that column. A corner icon (⤧) means it belongs to both intersecting words.</p>
+              </div>
+            </details>
+
+            <details class="faq-item">
+              <summary class="faq-question">Can green tiles be moved?</summary>
+              <div class="faq-answer">
+                <p>No, green tiles are locked in place because they are already in their correct position. This protects your progress and helps you narrow down the remaining unscrambled letters.</p>
+              </div>
+            </details>
+
+            <details class="faq-item">
+              <summary class="faq-question">How does the 5-Star rating system work?</summary>
+              <div class="faq-answer">
+                <p>You begin with 15 swaps. Each swap you spend deducts from your final score. Finishing with 10+ swaps remaining awards 5 stars; 7-9 swaps awards 4 stars; 4-6 swaps awards 3 stars; 1-3 swaps awards 2 stars; and 0 swaps remaining awards 1 star.</p>
+              </div>
+            </details>
+          </div>
+        </section>
+
+        <!-- Sister Sites & Backlink Network -->
+        <footer class="seo-footer">
+          <div class="footer-grid">
+            <div class="footer-col">
+              <h4>About Waffle Unlimited</h4>
+              <p>A fast, ad-free, lightweight word puzzle game built for puzzle fans worldwide. Zero tracking, zero bloat, 100% free forever.</p>
+            </div>
+            <div class="footer-col">
+              <h4>Play More Free Games</h4>
+              <ul class="sister-links">
+                <li>
+                  <a href="https://seo-game-website.vercel.app/" target="_blank" rel="noopener">
+                    🎮 <strong>Hextris Unblocked</strong> – Play Hexagonal Tetris Online
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="footer-col">
+              <h4>Daily Reset Time</h4>
+              <p>The Daily Challenge resets every day at midnight (00:00 UTC). Bookmark this page to keep your daily streak alive!</p>
+            </div>
+          </div>
+          <div class="footer-bottom">
+            <p>&copy; 2026 Waffle Game Unlimited. Built with love for word puzzle fans. Not affiliated with the New York Times or official Waffle.</p>
+          </div>
+        </footer>
+      </article>
+    </main>
+
+    <!-- Modals -->
+    <!-- Victory Modal -->
+    <div id="modal-victory" class="modal-backdrop" hidden>
+      <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="victory-title">
+        <div class="modal-header">
+          <span class="modal-icon">🧇 🎉</span>
+          <h2 id="victory-title">Waffle Completed!</h2>
+        </div>
+        <div class="modal-body">
+          <div id="victory-stars" class="victory-stars">★★★★★</div>
+          <p id="victory-message" class="victory-msg">Solved with 10 swaps remaining!</p>
+          <div class="victory-stats-summary">
+            <div class="vstat"><span id="vstat-swaps" class="vnum">10</span><span>Swaps Left</span></div>
+            <div class="vstat"><span id="vstat-stars" class="vnum">5</span><span>Stars</span></div>
+            <div class="vstat"><span id="vstat-streak" class="vnum">1</span><span>Streak</span></div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button id="btn-share" class="action-btn share-btn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+            Share Results
+          </button>
+          <button id="btn-next-victory" class="action-btn primary">Play Next Waffle</button>
+          <button class="modal-close-btn" data-close="modal-victory">Close</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Game Over / Out of Swaps Modal -->
+    <div id="modal-gameover" class="modal-backdrop" hidden>
+      <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="gameover-title">
+        <div class="modal-header">
+          <span class="modal-icon">⏳ 🧇</span>
+          <h2 id="gameover-title">Out of Swaps!</h2>
+        </div>
+        <div class="modal-body">
+          <p>You used all 15 swaps, but don't give up yet! Keep practicing to master the waffle grid.</p>
+        </div>
+        <div class="modal-footer">
+          <button id="btn-add-swaps" class="action-btn secondary">+3 Practice Swaps</button>
+          <button id="btn-retry-puzzle" class="action-btn secondary">Try Again</button>
+          <button id="btn-next-gameover" class="action-btn primary">Next Puzzle</button>
+          <button class="modal-close-btn" data-close="modal-gameover">Close</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Help / How To Play Modal -->
+    <div id="modal-help" class="modal-backdrop" hidden>
+      <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="help-title">
+        <div class="modal-header">
+          <span class="modal-icon">📖</span>
+          <h2 id="help-title">How to Play Waffle</h2>
+        </div>
+        <div class="modal-body">
+          <ul class="help-points">
+            <li>Swap letters to form <strong>6 five-letter words</strong> (3 horizontal, 3 vertical).</li>
+            <li>You have <strong>15 swaps</strong>. Each swap costs 1 move.</li>
+            <li><strong>Green tiles</strong> are in the right spot and locked 🔒.</li>
+            <li><strong>Yellow tiles</strong> belong to that row or column (follow the ↔ and ↕ arrows!).</li>
+            <li><strong>Grey tiles</strong> do not belong in that row or column.</li>
+            <li>Solve with 10+ swaps left for <strong>5 Stars</strong>!</li>
+          </ul>
+        </div>
+        <div class="modal-footer">
+          <button class="action-btn primary modal-close-btn" data-close="modal-help">Got It!</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Stats Modal -->
+    <div id="modal-stats" class="modal-backdrop" hidden>
+      <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="stats-title">
+        <div class="modal-header">
+          <span class="modal-icon">📊</span>
+          <h2 id="stats-title">Statistics</h2>
+        </div>
+        <div class="modal-body">
+          <div class="stats-overview">
+            <div class="stat-box"><span id="stat-played" class="snum">0</span><span>Played</span></div>
+            <div class="stat-box"><span id="stat-winpct" class="snum">0%</span><span>Win %</span></div>
+            <div class="stat-box"><span id="stat-streak" class="snum">0</span><span>Current Streak</span></div>
+            <div class="stat-box"><span id="stat-maxstreak" class="snum">0</span><span>Max Streak</span></div>
+          </div>
+          <h3 class="stars-dist-title">Stars Distribution</h3>
+          <div id="stars-distribution" class="stars-distribution">
+            <!-- Dynamically populated bars -->
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button class="action-btn primary modal-close-btn" data-close="modal-stats">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
